@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="txt_none_data">--</string>
+    <string name="India_91">+91</string>
+    <string name="network_title">Please check the network connection</string>
+    <string name="Code_888888888">Unknown error!</string>
+    <string name="Code_666666666">Server connection is abnormal, trying again!</string>
+    <string name="okhttp_error_toast">Unknown server response, please try again</string>
+    <string name="okhttp_timeout_error_toast">Server connection timed out, please try again later</string>
+    <string name="app_exit">Press again to exit</string>
+    <string name="permission_write_toast">Failed to obtain storage permission, please open manually</string>
+
+    <string name="toast_1">Coming soon</string>
+
+    <!--加载-->
+    <string name="refresh_footer_pulling">Pull up to load more</string>
+    <string name="refresh_footer_release">Release and load immediately</string>
+    <string name="refresh_footer_loading">loading...</string>
+    <string name="refresh_footer_refreshing">Refreshing...</string>
+    <string name="refresh_footer_finish">Loading completed</string>
+    <string name="refresh_footer_failed">Failed to load</string>
+    <string name="refresh_footer_nothing">No more data</string>
+
+    <string name="srl_footer_pulling">Pull up to load more</string>
+    <string name="srl_footer_release">Release and load immediately</string>
+    <string name="srl_footer_loading">loading...</string>
+    <string name="srl_header_refreshing">Refreshing...</string>
+    <string name="srl_footer_failed">Failed to load</string>
+    <string name="srl_footer_finish">Loading completed</string>
+    <string name="srl_footer_nothing">No more data</string>
+    <!--上面网络状态等-->
+    <string name="open">Open:</string>
+    <string name="close">Close:</string>
+    <string name="high">24h High</string>
+    <string name="low">24h Low</string>
+    <string name="vol">Volume:</string>
+    <string name="kline_gain">Change:</string>
+    <string name="kline_amplitude">Amplitude:</string>
+    <string name="full_kline_high">High:</string>
+    <string name="full_kline_low">Low:</string>
+    <string name="five_min">5 min</string>
+    <string name="kline_time">time</string>
+    <string name="one_min">1 min</string>
+    <string name="fifteen_min">15 min</string>
+    <string name="thirty_min">30 min</string>
+    <string name="one_hour">1 h</string>
+    <string name="one_day">Day line</string>
+    <string name="one_week">Week line</string>
+    <string name="one_monthly">Month line</string>
+    <string name="transaction_kline_button_more">More</string>
+    <string name="transaction_kline_button_index">Indicator</string>
+    <string name="share_xt_text">The World’s First Social Infused Exchange</string>
+    <string name="optional_prompt">Please login first</string>
+    <string name="txt_tv_handicap_title">Spread</string>
+    <string name="txt_tv_price_title">Price</string>
+    <string name="txt_tv_nums_title">Amount:</string>
+    <string name="depth_buy_title">Buy</string>
+    <string name="depth_sell_title">Sell</string>
+    <string name="depth_buy_amount">Amount</string>
+    <string name="depth_buy_amount1">Amount(Cont)</string>
+    <string name="depth_buy_price">Price</string>
+    <string name="home_default">Default</string>
+    <string name="time">Time</string>
+    <string name="transaction_item_price_assist_price">Price</string>
+    <string name="transaction_item_price_buy_price">Price</string>
+    <string name="transaction_item_price_sell_price">Amount</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="sell_1">Sell </string>
+    <string name="buy_1">Buy </string>
+    <string name="login">Login</string>
+    <string name="index_hide">Hide</string>
+    <string name="index_main_title">main chart</string>
+    <string name="index_secondary_title">sub chart</string>
+    <string name="transaction_depth_text">Depth</string>
+    <string name="transaction_transaction_text">Trading</string>
+    <string name="add_collection_success">Favourite added!</string>
+    <string name="add_collection_error">Fail to favorite!</string>
+    <string name="delete_collection_success">Favourites Cancelled!</string>
+    <string name="delete_collection_error">Fail to cancel favorites!</string>
+    <string name="market_en_dw_q">K</string>
+    <string name="market_dw_w">Ten thousand</string>
+    <string name="market_dw_bw">M</string>
+    <string name="txt_kline_24h">24H:</string>
+    <string name="txt_kline_maybe_equals">≈</string>
+    <string name="txt_complete_price_title">Entry price</string>
+    <string name="txt_entrust_price_title">Order Price</string>
+    <string name="txt_entrust_num_title">Completed amount/Entrust quantity</string>
+    <string name="txt_entrust_amount_title">Turnover</string>
+    <string name="txt_trade_progress">+0.0%</string>
+    <string name="txt_empty_data">No record</string>
+    <!--全屏-->
+    <string name="full_15">15 min</string>
+    <string name="full_kdj">KDJ</string>
+    <string name="full_macd">MACD</string>
+    <string name="dark_color">Dark</string>
+    <string name="light_color">Bright</string>
+    <string name="full_trade">Trade</string>
+    <string name="full_back">Return</string>
+    <string name="full_close">Close</string>
+    <string name="full_color">Default</string>
+    <string name="full_main_ma_open">Open main chart MA</string>
+    <string name="full_main_ma_close">Close main chart MA</string>
+    <string name="full_volume_ma_open">Open sub chart MA</string>
+    <string name="full_volume_ma_close">Close sub chart MA</string>
+    <string name="full_volume_open">Open Vol</string>
+    <string name="full_volume_close">Close Vol</string>
+    <string name="txt_kline_hr_min">Time</string>
+    <string name="txt_kline_1_min">1 min</string>
+    <string name="txt_kline_3_min">3 min</string>
+    <string name="txt_kline_5_min">5 min</string>
+    <string name="txt_kline_15_min">15 min</string>
+    <string name="txt_kline_30_min">30 min</string>
+    <string name="txt_kline_1_hour">Hour</string>
+    <string name="txt_kline_2_hour">2 Hour</string>
+    <string name="txt_kline_4_hour">4 Hour</string>
+    <string name="txt_kline_6_hour">6 Hour</string>
+    <string name="txt_kline_8_hour">8 Hour</string>
+    <string name="txt_kline_12_hour">12 Hour</string>
+    <string name="txt_kline_1_day">Day-K</string>
+    <string name="txt_kline_3_day">3 Day</string>
+    <string name="txt_kline_1_week">Week-K</string>
+    <string name="txt_kline_1_month">Month-K</string>
+    <string name="txt_kline_type_ma">MA</string>
+    <string name="txt_kline_type_ema">EMA</string>
+    <string name="txt_kline_type_boll">BOLL</string>
+    <string name="txt_kline_type_macd">MACD</string>
+    <string name="txt_kline_type_kdj">KDJ</string>
+    <string name="txt_kline_type_rsi">RSI</string>
+    <string name="txt_kline_type_wr">WR</string>
+    <string name="txt_kline_type_hide">Hide</string>
+    <string name="full_time">Time</string>
+    <string name="full_onemin">1 min</string>
+    <string name="full_threemin">3 min</string>
+    <string name="full_fivemin">5 min</string>
+    <string name="full_tenmin">10 min</string>
+    <string name="full_fifteenmin">15 min</string>
+    <string name="full_thirtymin">30 min</string>
+    <string name="full_oneHour">1 h</string>
+    <string name="full_sixHour">6 h</string>
+    <string name="full_twelveHour">12 h</string>
+    <string name="full_oneday">Day line</string>
+    <string name="full_threeday">3 days</string>
+    <string name="full_week">1 week</string>
+    <string name="full_monthly">1 month</string>
+    <string name="dark">Dark</string>
+    <string name="bright">Bright</string>
+    <!--上面K线相关，下面自定义-->
+    <string name="assist_cny">CNY</string>
+    <string name="assist_usd">USD</string>
+    <string name="assist_btc">BTC</string>
+    <string name="assist_krw">KRW</string>
+    <string name="language_cn">简体中文</string>
+    <string name="language_en">English</string>
+    <string name="language_zh">繁體中文</string>
+    <string name="language_jp">日本語</string>
+    <string name="language_ko">한국어</string>
+    <string name="language_ru">русский</string>
+
+    <string name="navigation_title_1">Home</string>
+    <string name="navigation_title_2">Market</string>
+    <string name="navigation_title_3">Trade</string>
+    <string name="navigation_title_4">Fiat</string>
+    <string name="navigation_title_5">Finance</string>
+    <string name="mine_login">Login</string>
+    <string name="mine_not_user">Don’t have an account?</string>
+    <string name="mine_safety_center">Security center</string>
+    <string name="mine_real_name">KYC authentication</string>
+    <string name="mine_invites_courtesy">Get rewards by inviting friends</string>
+    <string name="mine_assist_currency">Fractional currency</string>
+    <string name="mine_language">Language</string>
+    <string name="mine_regard_xt">About XT</string>
+    <string name="mine_exit_login">Logout</string>
+    <string name="mine_user_nick">Alias: %1$s</string>
+    <string name="bulletin_oard">Announcement</string>
+    <string name="user_app_update_title">Update notification</string>
+    <string name="version_update_tp">Downloading</string>
+    <string name="version_toast">This is the latest version</string>
+    <string name="mine_login_out_title">Do you want to log out?</string>
+    <string name="mine_pricing_manner">Currency</string>
+    <string name="mine_clear_cache">Clear cache</string>
+    <string name="mine_super_partner">Super partners</string>
+    <string name="mine_deliver">Give red packets</string>
+    <string name="mine_check_download">Check for updates</string>
+    <string name="mine_title">Me</string>
+    <string name="regard_xt">XT introduction</string>
+    <string name="check_version">Check the version</string>
+    <string name="regard_content">\u3000\u3000Founded in July 2018 and headquartered in Hong Kong, XT is a global digital currency trading service provider. XT exchange adopts micro service architecture to develop matching engine and operation maintenance to support secure and fast OTC  transactions. As the first trading platform to launch interest-free leverage, the number of daily active users has reached tens of thousands. The transaction fee of XT is the lowest and it supports Chinese, English, Japanese, Korean and other multi-language languages, serving more than 1 million global users in nearly 100 countries and regions.\n
+        \u3000\u3000Founded by well-known capital fund FIBTC LTD, XT now has operation centers in Japan, Singapore, South Korea, Spain and other countries and regions. With the technical support of ZB, XT provides users with the safest, most efficient and most professional digital asset investment services.</string>
+    <string name="user_register">Register</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">phone</string>
+    <string name="user_password">Password</string>
+    <string name="repetition_password">Repeat password</string>
+    <string name="login_not_password">Forget password</string>
+    <string name="login_not_password2">Forgot password?</string>
+    <string name="email_address">Email address</string>
+    <string name="register_invite">Invitation code(Optional)</string>
+    <string name="email_code">Email authentication code</string>
+    <string name="phone_code">phone authentication code</string>
+    <string name="user_safe_pwd">security Password</string>
+    <string name="user_submit_safe_pwd">Confirm security Password</string>
+    <string name="user_set_safe_pwd">Set security Password</string>
+    <string name="user_login_not_account_pwd">Please enter the account or password</string>
+    <string name="user_toast_pwd_two_err">Please make sure the passwords are same</string>
+    <string name="user_toast_not_input_login_pwd">Please enter login password</string>
+    <string name="user_toast_not_input_safe_pwd">Please enter security Password</string>
+    <string name="user_toast_pwd_length">Password must be 6 ~ 16 characters</string>
+    <string name="register_toast_input_account">Please enter phone number or email address</string>
+    <string name="user_toast_not_send_code">Please enter verification code</string>
+    <string name="user_country_title">Please select country code</string>
+    <string name="user_search_country">Search country</string>
+    <string name="dynamic_code">Dynamic code</string>
+    <string name="user_toast_intput_dynamic_code">Please enter dynamic code</string>
+    <string name="user_login_pwd">Login password</string>
+    <string name="strategy_title1">Clicking “Register” means you have accepted</string>
+    <string name="strategy_title2">《XT Privacy Policy》</string>
+    <string name="strategy_title">Privacy policy</string>
+    <string name="safety_centre">Security center</string>
+    <string name="post_verify_code">SMS</string>
+    <string name="email_binding_title">Bind email address</string>
+    <string name="phone_binding_title">Bind phone number</string>
+    <string name="phone_update_title">Change phone number</string>
+    <string name="phone_forget_title">Lost phone</string>
+    <string name="google_code">Google authentication code</string>
+    <string name="user_toast_input_email_address">Please enter email address</string>
+    <string name="user_toast_input_email_code">Please enter email authentication code</string>
+    <string name="user_toast_input_phone_code">Please enter SMS authentication code</string>
+    <string name="user_toast_input_google_code">Please enter Google authentication code</string>
+    <string name="user_old_phone_number">The old phone</string>
+    <string name="user_toast_input_phone">Please enter phone number</string>
+    <string name="user_old_phone_lose">The original phone lost?</string>
+    <string name="new_phone_code">New phone authentication code</string>
+    <string name="old_phone_code">Original New phone authentication code</string>
+    <string name="safety_toast_not_email_binding">You did not bind the email. Bind it now?</string>
+    <string name="safety_phone_auth">Phone Authentication</string>
+    <string name="safety_email_auth">Email Authentication</string>
+    <string name="safety_google_auth">Google Authentication</string>
+    <string name="safety_login_auth_setting">Login policy</string>
+    <string name="safety_open">Open</string>
+    <string name="safety_close">Close</string>
+    <string name="up_login_cert_title">Current Setting:%1$s</string>
+    <string name="safety_login_auth2">Password + Google authenticator</string>
+    <string name="safety_login_auth3">Password + Remote location authentication</string>
+    <string name="safety_login_auth4">Password + Google authenticator + Remote location authentication</string>
+    <string name="safety_update_login_pwd">Change login Password</string>
+    <string name="safety_update_pwd">Change security password</string>
+    <string name="safety_reset_pwd">Reset security password</string>
+    <string name="safety_toast_title">The security password cannot be used within 24 hours after change.</string>
+    <string name="safety_toast_title2">The security password cannot be used within 24 hours after reset.</string>
+    <string name="safety_old_pwd">Current Password</string>
+    <string name="safety_toast_input_old_pwd">Please enter the current password</string>
+    <string name="safety_new_login_pwd">New password</string>
+    <string name="safety_new_login_pwd2">Confirm password</string>
+    <string name="safety_toast_new_login_pwd">Confirm new password</string>
+    <string name="safety_new_pwd">New security password</string>
+    <string name="safety_new_pwd2">Confirm security password</string>
+    <string name="safety_toast_new_pwd">Please enter new security password</string>
+    <string name="safety_toast_pwd_is_fit">Please make sure  two passwords are same</string>
+    <string name="safety_google_auth_toast1">1. In Google Authenticator, hit the “+” on the upper right and select “Manual entry”.\n 
+        2. Copy the above Key - %1$s and paste it to the “Key” area, and enter your XT account, then hit “Done”.\n 
+        3. Copy the Google Authenticator Code and paste it to the “Google Authenticator Code” area above.</string>
+    <string name="safety_google_auth_toast2">Do not delete this two-step verification password account, as this will prevent you from doing the account operation, or you can reacquire it by re-using the reset key if deleted by mistake.</string>
+    <string name="safety_secret_key">Key</string>
+    <string name="safety_open_google">Turn On Google Authentication</string>
+    <string name="safety_close_google">Turn Off Google Authentication</string>
+    <string name="safety_update_google">Modify Google Authentication</string>
+    <string name="get_sms_code">Receive SMS</string>
+    <string name="deal_pass_word_title">Security authentication</string>
+    <string name="login_auth_title">Login authentication</string>
+    <string name="login_auth_title2">Remote location authentication</string>
+    <string name="safety_not_auth">Not bound</string>
+    <string name="safety_has_auth">Bound</string>
+    <string name="deal_pass_word_hint">A security password is required for this operation</string>
+    <string name="market_own">Favorites</string>
+    <string name="market_coin">Crypto</string>
+    <string name="market_price">Price</string>
+    <string name="market_money">Amount</string>
+    <string name="market_volatility">Change</string>
+    <string name="market_kline">K-line Chart</string>
+    <string name="market_high24">24h High</string>
+    <string name="market_low24">24h Low</string>
+    <string name="market_collection">Favorites</string>
+    <string name="market_not_collection">Added to Favorites</string>
+    <string name="market_vol">Vol(24H)</string>
+    <string name="market_seach">Enter currency and trading pair</string>
+    <string name="deal_cash">Spot</string>
+    <string name="deal_lever">leverage</string>
+    <string name="deal_trigger_num">Trigger price</string>
+    <string name="deal_market_price">Market price</string>
+    <string name="deal_market_price_bbo">BBO</string>
+    <string-array name="deal_type">
+        <item>Limit order</item>
+        <item>Market order</item>
+        <item>Stop Limit</item>
+    </string-array>
+    <string name="deal_convert_into">Equivalent</string>
+    <string name="deal_freeze">Frozen</string>
+    <string name="deal_sum">Vol</string>
+    <string name="deal_usable">Available %1$s</string>
+    <string name="deal_buy_usable">Max Buy</string>
+    <string name="deal_sell_usable">Max Sell</string>
+    <string name="deal_all">Cross</string>
+    <string name="deal_show_files">Show tiers</string>
+    <string name="deal_show_lines">Depth</string>
+    <string name="deal_entrust_news">Current order</string>
+    <string name="deal_entrust_history">History</string>
+    <string name="deal_entrust_cancel">Cancel all</string>
+    <string name="deal_all_entrust">All orders</string>
+    <string name="deal_input_number">Amount</string>
+    <string name="block_size">%1$d tier</string>
+    <string name="deal_limit_unit">%1$d decimal</string>
+    <string name="deal_input_trigger_price">Please enter trigger price</string>
+    <string name="deal_input_entrust_price">Please order price</string>
+    <string name="deal_input_entrust_money">Enter amount</string>
+    <string name="deal_input_entrust_number">Please order volume</string>
+    <string name="deal_type_hint_toast">Deal quickly with the counterparty`s price within 20 tiers, and the unsettled part will be automatically converted into a limit order.</string>
+    <string name="deal_entrust_trigger_price">Trigger price</string>
+    <string name="deal_two_submit_text">Click again to confirm</string>
+    <string name="deal_lever_recharge_and_raise">Borrow/Repay</string>
+    <string name="deal_lever_risk_rate">Return Rate:</string>
+    <string name="deal_lever_risk_price">Forced liq. price:</string>
+    <string name="deal_lever_account">Margin Account</string>
+    <string name="deal_lever_dialog_rate">When the risk rate is ≤%1$s%%, the account will trigger a liquidation to repay the loan and interest.</string>
+    <string name="deal_lever_borrow">Loan Limit</string>
+    <string name="deal_lever_raise">Repay</string>
+    <string name="entrust_type0">Waiting for entrustment</string>
+    <string name="entrust_type1">Entrusting</string>
+    <string name="entrust_type2">Completed</string>
+    <string name="entrust_type3">Canceled</string>
+    <string name="entrust_type4">Clearing</string>
+    <string name="entrust_cancel_content">Cancel order?</string>
+    <string name="entrust_cancel_all_content">Cancel all open orders?</string>
+    <string name="deal_market_select_yes">Main zone</string>
+    <string name="deal_market_select_not">Innovation zone</string>
+    <string name="lever_market_select_yes">Interest-free sector</string>
+    <string name="lever_market_select_not">Non-interest-free sector</string>
+    <string name="market_name_query_hint">Please enter currency name</string>
+    <string-array name="asset_account">
+        <item>Wallet account</item>
+        <item>Spot account</item>
+        <item>Fiat account</item>
+        <item>Margin account</item>
+        <item>Finance Account</item>
+        <item>Pool Account</item>
+        <item>Quanto</item>
+        <item>USD-M</item>
+        <item>Coin-M</item>
+    </string-array>
+    <string name="asset_show_unit">Display Unit: %1$s</string>
+    <string name="asset_total">Total Asset Value</string>
+    <string name="asset_net">Net Assets</string>
+    <string name="asset_account">Fund account</string>
+    <string name="asset_full">Deposit</string>
+    <string name="asset_up">Withdraw</string>
+    <string name="asset_transfer">Fund transfer</string>
+    <string name="asset_deal_account">Trading account</string>
+    <string name="asset_law_account">Fiat</string>
+    <string name="asset_wallet">Wallet</string>
+    <string name="asset_seed_account">Total asset value</string>
+    <string name="asset_coin_account">Spot account</string>
+    <string name="asset_lever_account">Margin account</string>
+    <string name="asset_contract_account">Futures account</string>
+    <string name="asset_trans_input_number">Please enter transfer quantity</string>
+    <string name="asset_input_coin">Please select currency</string>
+    <string name="asset_trans_available">Available</string>
+    <string name="asset_select_currency">Select currency</string>
+    <string name="asset_search_currency">Search currency</string>
+    <string name="asset_full_wallet">Deposit</string>
+    <string name="asset_seed_lend_coin">Borrow</string>
+    <string name="asset_transfer_seed">Transfer</string>
+    <string name="asset_raise_seed">Withdraw</string>
+    <string name="asset_loan_administration">Loan Management</string>
+    <string name="asset_chain_name">Chain name</string>
+    <string name="asset_recharge_hint_title">Deposit notice</string>
+    <string name="asset_recharge_hint_content">* %1$s deposits arrive after %2$s confirmation and withdrawals are allowed after %3$s confirmation;\n\n* The minimum deposit amount is %4$s, and less than the amount will not arrive;\n\n* Please do not deposit any assets but %5$s to this address. Any other assets deposited to the address will lose.</string>
+    <string name="asset_recharge_memo_hint">The deposit address and remarks must be filled correctly in order to deposit %1$s to XT. Missing remarks will result in the loss of funds.</string>
+    <string name="asset_not_recharge">Deposit not open yet</string>
+    <string name="asset_not_raise">Withdrawal not open yet</string>
+    <string name="asset_not_address">Click for deposit address</string>
+    <string name="asset_recharge_address">Deposit address</string>
+    <string name="asset_recharge_memo">Memo</string>
+    <string name="asset_copy_address">Copy address</string>
+    <string name="asset_copy_memo">Copy address</string>
+    <string name="asset_raise_min_number">Minimum withdrawal quantity %1$s</string>
+    <string name="asset_raise_address">Withdrawal address</string>
+    <string name="asset_raise_select_address">Select withdrawal address</string>
+    <string name="asset_address_admin">Withdrawal address management</string>
+    <string name="asset_add_address">Add new withdrawal address</string>
+    <string name="asset_add_address2">Add address</string>
+    <string name="asset_input_memo">Enter or long press to paste notes</string>
+    <string name="asset_nick_address">Wallet Label</string>
+    <string name="asset_input_nick_address">Please wallet label</string>
+    <string name="asset_input_copy_address">Enter or long press to paste %1$s address</string>
+    <string name="asset_address_scan">Add withdrawal address</string>
+    <string name="asset_add_address_title">New %1$s withdrawal address</string>
+    <string name="asset_address_chain">Chain type %1$s</string>
+    <string name="asset_address_nick">Change Label</string>
+    <string name="asset_address_intput_nick">Please enter alias</string>
+    <string name="asset_address_is_delete">Delete the address?</string>
+    <string name="asset_raise_hint_content">* 24-Hr Withdrawal Limit:%1$s %2$s\n\n* The service charge is deducted from the balance first, and if the balance is insufficient, it is deducted from the cash withdrawal;\n\n* %3$s deposit will be arrived after %4$s confirmations, and the withdrawals are only allowed after %5$s confirmations;\n\n* Available withdrawals≤ Available account assets-Unconfirmed digital assets;\n\n* Do not withdraw directly to a crowdfund or ICO address, as your account will not be credited with tokens from such sales.</string>
+    <string name="asset_raise_not_user_data">To obtain the data related to user`s withdrawal</string>
+    <string name="asset_raise_fee">fee</string>
+    <string name="asset_raise_speediness">I agree to use internal transfers and enjoy the fast arrival without fee</string>
+    <string name="asset_raise_hint_title">Withdrawal notice</string>
+    <string name="asset_raise_practical">Arrival amount</string>
+    <string name="asset_bill_type">Transfer type</string>
+    <string name="asset_bill_deal_title">Finance records</string>
+    <string-array name="asset_raise_bill_status">
+        <item>Pending review</item>
+        <item>Failure</item>
+        <item>Success</item>
+        <item>Canceled</item>
+        <item>Pending approval</item>
+        <item>Coin sending</item>
+        <item>Confirmed</item>
+        <item>Waiting for confirmation</item>
+    </string-array>
+    <string name="asset_cancel_raise">Cancel the withdrawal</string>
+    <string name="asset_raise_bill_type1">Block transfer</string>
+    <string name="asset_raise_bill_type2">Internal transfer</string>
+    <string name="asset_raise_is_cancel_raise">Cancel the withdrawal?</string>
+    <string name="asset_raise_cancel_raise_left">Continue the withdrawal</string>
+    <string name="asset_bill_detail">Details</string>
+    <string name="asset_recharge_time">Deposit time</string>
+    <string name="asset_raise_time">Withdraw time</string>
+    <string name="asset_detail_ok_num">Number of confirmations</string>
+    <string name="asset_detail_type">State</string>
+    <string name="asset_detail_type2">Types</string>
+    <string name="asset_bills">Bill</string>
+    <string name="asset_relation">Please contact customer service</string>
+    <string name="asset_seed_borrow">Loaned</string>
+    <string name="asset_seed_rate">Risk rate%1$s Forced Liq. price%2$s</string>
+    <string name="asset_trans_lever_select">Market selection</string>
+    <string name="asset_trans_lever_select_hint">Please select market first</string>
+    <string name="asset_loans_all">All markets</string>
+    <string name="asset_loans_refund">Repay</string>
+    <string-array name="asset_loans_refund_type">
+        <item>Unlimited</item>
+        <item>Pending repayment</item>
+        <item>Liquidated</item>
+        <item>Repaid</item>
+    </string-array>
+    <string name="asset_loans_day_rate">Day Rate</string>
+    <string name="asset_loans_end_time">Expiry time</string>
+    <string name="asset_refund_coin">Repayment currency</string>
+    <string name="asset_refund_should">Due</string>
+    <string name="asset_refund_number">Repayment amount repaid</string>
+    <string name="asset_refund_input_number">Enter repayment mount</string>
+    <string name="asset_refund_max_number">Max repayment</string>
+    <string name="asset_borrow_name">Borrow</string>
+    <string name="asset_borrow_time">Term</string>
+    <string name="asset_borrow_number">Borrowable amount</string>
+    <string name="asset_borrow_coin">Currency</string>
+    <string name="asset_borrow_loanable">Available</string>
+    <string name="asset_borrow_number2">Borrowed amount</string>
+    <string name="asset_borrow_input_number">Enter Amount</string>
+    <string name="asset_borrow_max_number">Max borrowing</string>
+    <string name="asset_borrow_automatic">Auto Renewal</string>
+    <string name="asset_borrow_end_time">Term</string>
+    <string name="trans_to">From</string>
+    <string name="trans_on">To</string>
+    <string name="trans_coin_select">Currency selection</string>
+    <string name="trans_number">Transfer amount</string>
+    <string name="trans_max_number">Max transfer %1$s %2$s</string>
+    <string name="trans_sumbit">Confirm transfer</string>
+    <string name="not_network">network anomaly, try again...</string>
+    <string name="not_list">No data</string>
+    <string name="btn_all">All</string>
+    <string name="user_login_toast_ok">Logged in</string>
+    <string name="user_login_out_toast_ok">Logged out</string>
+    <string name="user_register_toast_ok">Registration completed</string>
+    <string name="user_forget_pwd_toast_ok">Success</string>
+    <string name="send_code_ok">Sent</string>
+    <string name="binding_ok">Bind successfully</string>
+    <string name="reset_ok">Reset successfully</string>
+    <string name="copy_ok">Copied</string>
+    <string name="close_ok">Close successfully</string>
+    <string name="open_ok">Open successfully</string>
+    <string name="entrust_ok">Entrusted successfully</string>
+    <string name="cacel_entrust_ok">Canceled</string>
+    <string name="trans_ok">Transferred</string>
+    <string name="oper_ok">Executed</string>
+    <string name="save_ok">Saved</string>
+    <string name="add_ok">Added</string>
+    <string name="delete_ok">Canceled</string>
+    <string name="update_ok">Changed</string>
+    <string name="raise_ok">Withdraw success</string>
+    <string name="refund_ok">Repaid</string>
+    <string name="borrow_ok">Borrowed</string>
+    <string name="submit_ok">Submitted</string>
+    <string name="user_register_zcfs">Send again</string>
+    <string name="user_copy">Copy</string>
+    <string name="user_paste">Paste</string>
+    <string name="scan">Scan</string>
+    <string name="scan_tip_text">Please align the QR code within the scanning box</string>
+    <string name="days">Day</string>
+    <string name="record">Record</string>
+    <string name="hint">Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="confirm">Confirm</string>
+    <string name="submint">Submit</string>
+    <string name="binding">Bind</string>
+    <string name="update">Change</string>
+    <string name="reset">Reset</string>
+    <string name="affirm">Confirm</string>
+    <string name="repeal">Cancel</string>
+    <string name="renewal">Update</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="save_qr">Save QR code</string>
+    <string name="I_see">OK</string>
+    <string name="leave">Go</string>
+    <string name="memo">Memo</string>
+    <string name="home_login_regiser">Log in/Register</string>
+    <string name="home_commission">Rebate</string>
+    <string name="home_news">News</string>
+    <string name="home_service">Help</string>
+    <string name="home_rise">Gainers</string>
+    <string name="home_fall">Losers</string>
+    <string name="home_24h">24h Vol</string>
+    <string name="auth_primary">Primary authentication</string>
+    <string name="auth_advanced">Advanced authentication</string>
+    <string name="auth_desc_text">Enable deposit, withdrawal and fiat trading</string>
+    <string name="auth_desc_advanced_text">Fiat trading and verified merchant application</string>
+    <string name="auth_not_primary_binding">You need to perform primary authentication before advanced authentication. Do it now?</string>
+    <string name="auth_check_primary_binding">Your application for primary authentication is under reviewing, pleases wait</string>
+    <string-array name="auth_raise_bill_status">
+        <item>Verify</item>
+        <item>Reviewing</item>
+        <item>Verified</item>
+        <item>Unapproved</item>
+    </string-array>
+    <string name="primary_country_name">Nationality</string>
+    <string name="primary_card_name">Type of ID document</string>
+    <string name="primary_person_name">Name</string>
+    <string name="primary_card_number">ID number</string>
+    <string name="primary_select_card_name">Select</string>
+    <string name="primary_auth_tips">Note: Please be sure to fill in your real information, KYC authentication can not be modified, and the platform only accepts your real-name account’ s deposit and withdrawal</string>
+    <string name="primary_auth_next">Next</string>
+    <string name="primary_auth_commit">Submit for review</string>
+    <string name="primary_auth_upload_tips1">1.Upload photos of “%s” %s and holding the %s</string>
+    <string name="primary_auth_upload_tips2">2.Please ensure that the %s frame is complete, the image is clear, and the light is uniform When taking pictures.</string>
+    <string name="primary_auth_upload_front_text">Upload the front of the ID card</string>
+    <string name="primary_auth_upload_reverse_text">Upload the back of the ID card</string>
+    <string name="primary_auth_upload_app_pic_text">A photo in which you hold your ID card and a piece of paper reading”XT+Date+You signature”</string>
+    <string name="file_record_video_error">Video transcoding failed</string>
+    <string name="file_is_finish_video">Are you sure to quit the video transcoding?</string>
+    <string name="advanced_hint">The recording of the certified video is about to start, and the total duration of the video does not exceed 15 seconds. Please ensure that the network is smooth or operate in a WiFi environment. If the network is unstable and the video upload fails, you need to re-record.</string>
+    <string name="advanced_hint_btn">Star recording</string>
+    <string name="advanced_hint_number">Please record a video and say the following numbers in the video</string>
+    <string name="advanced_anew_video">RE-record</string>
+    <string name="advanced_push_video">Submit for review</string>
+    <string-array name="primary_auth_upload_take_photo">
+        <item>Camera</item>
+        <item>Album</item>
+    </string-array>
+    <string name="card_can_not_be_empty">The ID type cannot be empty</string>
+    <string name="country_can_not_be_empty">The nationality cannot be empty</string>
+    <string name="name_can_not_be_empty">The name cannot be empty</string>
+    <string name="name_can_not_be_less_than_two_words">The length of Name cannot be less than two characters.</string>
+    <string name="id_can_not_be_empty">The ID No. cannot be empty</string>
+    <string name="the_length_of_the_id_card_is_incorrect">Invalid length of ID No.</string>
+    <string name="take_photo_error">Unable to save photo, please check if the SD card is mounted</string>
+    <string name="card_front_img_can_not_be_empty">The front of the ID card cannot be empty</string>
+    <string name="card_reverse_img_can_not_be_empty">The back of the ID card cannot be empty</string>
+    <string name="card_all_img_can_not_be_empty">The photo of holding your ID card cannot be empty</string>
+    <string name="primary_upload_info_success">Submit success, pleases wait...</string>
+    <string name="function_no">Coming soon...</string>
+    <string name="otc_advert_issue">Publish advertisement</string>
+    <string name="otc_issue">Publish</string>
+    <string name="otc_automation_order">Automatic order</string>
+    <string name="otc_manually_order">Manual order</string>
+    <string-array name="otc_issue_buttom">
+        <item>Edit</item>
+        <item>Delist</item>
+        <item>List</item>
+    </string-array>
+    <string-array name="otc_issue_status">
+        <item>Unlisted</item>
+        <item>Listed</item>
+        <item>Stop taking orders</item>
+    </string-array>
+    <string name="otc_payee_way">Please add the payment method first!</string>
+    <string name="otc_payee_way2">Please activate the payment method！</string>
+    <string name="otc_select_market">Select trading market</string>
+    <string name="otc_issue_hint">Notes</string>
+    <string name="otc_issue_hint1">1.Be sure to confirm the receipt after receiving the payment;\n2.Please carefully verify the source of the funds and transfer remarks to avoid bank cards being frozen;</string>
+    <string name="otc_issue_hint2">3.Make sure you entered the hidden price in case of asset losses due to severe market fluctuations;\n4.Your current price quotation is updated every 3 minutes after it is published.</string>
+    <string name="otc_issue_max_number">The maximum amount of a single transaction</string>
+    <string name="otc_issue_input_max_number">Please enter the maximum amount of a single transaction</string>
+    <string name="otc_issue_min_number">The minimum amount of a single transaction</string>
+    <string name="otc_issue_input_min_number">Please enter the minimum amount of a single transaction</string>
+    <string name="otc_issue_min_sell_price">Limit the minimum sell price</string>
+    <string name="otc_issue_max_buy_price">Limit the maximum sell price</string>
+    <string name="otc_issue_consult_float_price">Reference floating price</string>
+    <string name="otc_issue_consult_price">Reference price</string>
+    <string name="otc_issue_float_price_update">Set Percentage</string>
+    <string name="otc_issue_number">Transaction volume</string>
+    <string name="otc_issue_available">Available</string>
+    <string name="otc_issue_market">Trading market</string>
+    <string name="otc_issue_impose_number">Limit</string>
+    <string name="otc_issue_min">Minimum</string>
+    <string name="otc_issue_max">Maximum</string>
+    <string name="otc_issue_input_number">Please enter the quantity</string>
+    <string name="otc_issue_input_price">Enter price</string>
+    <string name="otc_issue_select_pay_hint">Please select payment method</string>
+    <string name="otc_issue_bank">Bank card</string>
+    <string name="otc_issue_pay">Alipay</string>
+    <string name="otc_issue_wechat">WeChat</string>
+    <string name="otc_issue_not_user_available">Insufficient balance</string>
+    <string-array name="otc_title_text">
+        <item>Buy</item>
+        <item>Sell</item>
+        <item>Order</item>
+    </string-array>
+    <string name="otc_price">Unit price</string>
+    <string name="otc_num">Orders %s</string>
+    <string name="otc_all_price_num">Total amount(%s)</string>
+    <string name="otc_limit_price">Limit amount</string>
+    <string name="otc_auth_tag_tips">Please complete KYC verification first</string>
+    <string name="otc_more_pay_main">Payment method</string>
+    <string name="otc_more_basic_information">Basic Info</string>
+    <string name="otc_more_merchant_ca">Merchant apply</string>
+    <string name="otc_adv_management">Ad management</string>
+    <string name="otc_select_pay_method">Select payment method</string>
+    <string name="otc_pay_type_wx">WeChat</string>
+    <string name="otc_pay_type_alipay">Alipay</string>
+    <string name="otc_pay_type_bank">Bank card</string>
+    <string name="otc_pay_method_used">Activated</string>
+    <string name="otc_pay_method_unused">Not activated</string>
+    <string name="otc_select_bank">Select bank</string>
+    <string name="otc_add_card_hint_txt">Please enter the bank card number</string>
+    <string name="otc_add_card_used_in">Activate the payment method</string>
+    <string name="otc_add_pay_method_add_text">Add</string>
+    <string name="otc_add_card_save">save</string>
+    <string name="otc_add_card_title">Add a bank card</string>
+    <string name="otc_add_three_pay_method_ali_num">Please enter Alipay account</string>
+    <string name="otc_add_three_pay_method_wx_num">Please enter WeChat account</string>
+    <string name="otc_information_input_nickname">Please enter alias</string>
+    <string name="otc_information_input_nickname_tag">Alias</string>
+    <string name="otc_information_input_phone_tag">Phone number</string>
+    <string name="otc_information_input_phone">Please enter phone number</string>
+    <string name="otc_information_input_email">Please enter email address</string>
+    <string name="otc_information_input_qq_tag">QQ</string>
+    <string name="otc_information_input_qq">Please enter QQ number</string>
+    <string name="otc_information_input_wx">Please enter WeChat account</string>
+    <string name="otc_information_input_whatsapp">Please enter WhatsApp account</string>
+    <string name="otc_information_input_whatsapp_tag">WhatsApp</string>
+    <string name="otc_information_input_ali">Please enter Alipay account</string>
+    <string name="otc_information_input_skype">Please enter Skype account</string>
+    <string name="otc_information_input_skype_tag">Skype</string>
+    <string name="otc_information_tips">*The basic information can only be modified once in 7 days, please fill in carefully</string>
+    <string name="otc_select_card_title">Select a bank card</string>
+    <string name="otc_select_bank_toast">Please select a bank</string>
+    <string name="otc_delete_pay_method">Delete the payment method?</string>
+    <string name="otc_merchant_auth_title">Apply for verified merchant</string>
+    <string name="otc_merchant_auth_tips_title">Submit application</string>
+    <string name="otc_merchant_auth_tips_content">Please click the "Confirm Application" button on the page to submit the application and agree to freeze the merchant deposit: %s.</string>
+    <string name="otc_merchant_auth_tips_title1">Data review</string>
+    <string name="otc_merchant_auth_tips_content1">Please contact customer service to request the application information template and complete it, we will review your merchant application information within 3 working days.</string>
+    <string name="otc_merchant_auth_tips_agree">I have read and agree</string>
+    <string name="otc_merchant_auth_tips_agree_content">《OTC Service Agreement》</string>
+    <string name="otc_merchant_auth_apply_now">Apply now</string>
+    <string name="otc_merchant_auth_apply_tips">Applying for certified merchants will freeze %s, confirm the application?</string>
+    <string name="otc_merchant_auth_apply_fail">Review failure</string>
+    <string name="otc_merchant_auth_apply_success">Review success</string>
+    <string name="otc_merchant_auth_apply_ing">Reviewing, please be patient</string>
+    <string name="otc_merchant_auth_apply_ing_content">If the application information is not submitted, please contact customer service as soon as possible</string>
+    <string name="otc_merchant_auth_apply_success_">You have become a certified merchant and can enjoy services such as ranking priority, business identification, and financial statements.</string>
+    <string name="otc_merchant_auth_apply_success_txt">Frozen deposit：%s</string>
+    <string name="otc_merchant_auth_apply_again">Reapply</string>
+    <string name="otc_merchant_auth_apply_cancel">Cancel the certified merchant</string>
+    <string name="otc_buy_money">Transaction amount: </string>
+    <string name="otc_buy_no_pay_type">Your payment method does not match that of the other party</string>
+    <string name="otc_buy_no_pay_type2">Please add the payment method before fiat trading</string>
+    <string name="otc_buy_use_count">Quantity(%s left)</string>
+    <string name="otc_can_buy_use_count">The quantity entered does not match the merchant`s limited transaction quantity</string>
+    <string-array name="otc_order_pay_status">
+        <item>Waiting for orders</item>
+        <item>To be paid</item>
+        <item>Paid</item>
+        <item>Waiting for confirmation</item>
+        <item>In dispute appeal</item>
+        <item>Order timeout</item>
+        <item>Payment timeout</item>
+        <item>Confirmation timeout</item>
+        <item>Cancel the order</item>
+        <item>Dispute completed</item>
+    </string-array>
+    <string name="otc_buy_order_detail_cancel">Cancel the order</string>
+
+    <string name="otc_buy_order_detail_tips">To ensure the safety of this transaction, the platform risk control is under review. Please be patient, the transaction can be conducted with the merchant after the review is completed.</string>
+    <string name="otc_buy_order_detail_nickname_tips">Seller alias</string>
+    <string name="otc_buy_order_detail_order_num_tips">Order number</string>
+    <string name="otc_buy_order_detail_tips_content">1.Please complete the payment within the specified time, and be sure to click "I have paid". After the seller confirms the payment, the digital asset will be transferred to your account.
+        \n\n2.If you make multiple order timeouts and manually cancel the transaction, your credit value will be reduced. When the credit value is too low, the system will restrict you from participating in fiat trading.
+        \n\n3.All acts that require private transactions outside the platform are scams, and users shall be vigilant
+        \n\n4.Do not fill in any digital currency characters such as Bitcoin and BTC in the remittance remarks and description columns to prevent your remittance from being intercepted by the bank</string>
+    <string-array name="otc_buy_order_detail_status_content_tips">
+        <item>To ensure the safety of this transaction, the platform risk control is under review. Please be patient, the transaction can be conducted with the merchant after the review is completed.</item>
+        <item>Please transfer funds to the other party within a limited time and confirm the payment after the transfer is completed</item>
+        <item>Please wait for the other party to confirm the release, if it times out, it will enter the dispute process.</item>
+        <item>Order completed</item>
+        <item>The order is in dispute, please cooperate with the customer service for arbitration</item>
+        <item>Please choose to dispute or cancel the order according to the situation</item>
+        <item>The order has been canceled and payment information cannot be viewed</item>
+    </string-array>
+    <string name="otc_buy_order_detail_wait_pay_tips">Please use your  own  (%s) %s to transfer funds to the following account</string>
+    <string name="otc_buy_order_detail_receive_name_tip">Payee</string>
+    <string name="otc_buy_order_detail_receive_name_pay_tip_num">Alipay account</string>
+    <string name="otc_buy_order_detail_receive_name_pay_code_img">Payment QR code</string>
+    <string name="otc_buy_order_detail_receive_name_pay_tips">Remittance remarks</string>
+    <string name="otc_buy_order_detail_is_pay">I have paid</string>
+    <string name="otc_buy_order_detail_is_appeal">I want to appeal</string>
+    <string name="otc_buy_order_detail_cancel_appeal">Cancel order and close dispute</string>
+    <string name="otc_buy_order_detail_appeal_detail">Dispute details</string>
+    <string name="otc_buy_order_detail_create_time">Order time</string>
+    <string name="otc_buy_order_detail_buy_real_name_tips">Buyer’ s real name</string>
+    <string name="otc_buy_order_detail_cancel_order_tips">Order canceled</string>
+    <string name="otc_buy_order_detail_order_status_3">The other party has paid, please confirm the payment arrival as soon as possible, and it will enter the dispute process itf timeouts.</string>
+    <string name="otc_buy_order_detail_order_status_7">Confirm release timeout, please choose to dispute or release according to the situation</string>
+    <string name="otc_buy_order_detail_order_status_6">The buyer’ s payment confirmation is overtime, please choose to dispute or cancel the order according to the situation</string>
+    <string name="otc_buy_order_detail_order_paytype">Account</string>
+    <string name="otc_buy_order_detail_order_refuse">Reject</string>
+    <string name="otc_buy_order_detail_order_apply">Receive</string>
+    <string name="otc_buy_order_detail_order_receive_money">I have received the payment</string>
+    <string name="otc_buy_order_detail_order_sure_give">Confirm the release</string>
+    <string name="otc_buy_order_detail_order_wait_check">Waiting for the confirmation</string>
+    <string name="otc_buy_order_detail_order_wait_appeal">Dispute</string>
+    <string name="otc_buy_order_detail_order_sell_fangxing">Confirm the release and drop the dispute</string>
+    <string name="otc_appeal_other_reason">other reason</string>
+    <string name="otc_appeal_reason">Dispute reason</string>
+
+    <string name="otc_appeal_other_reason_tips">Additional dispute description</string>
+    <string-array name="otc_appeal_reason_array">
+        <item>The other party did not answer</item>
+        <item>The other party did not release</item>
+        <item>The other party did not pay</item>
+        <item>The other party is involved in fraud</item>
+        <item>other reason</item>
+    </string-array>
+    <string name="otc_appeal_other_reason_tips_toast">Additional dispute description</string>
+    <string name="otc_appeal_detail_time">Dispute time</string>
+    <string name="otc_appeal_detail_type">Dispute type</string>
+    <string name="otc_appeal_detail_dec">Problem description</string>
+    <string name="otc_appeal_detail_record">Dispute record</string>
+    <string name="otc_appeal_detail_detail">Dispute  details</string>
+    <string name="otc_appeal_detail_submit_proof">Submit evidence</string>
+    <string name="otc_appeal_detail_submit_proof_dec">Detail description:</string>
+    <string name="otc_appeal_detail_submit_proof_upload_tips">Upload evidence of pictures(Up to 5 pictures)</string>
+    <string name="otc_go_to_add_pay_method">Go to add</string>
+    <string name="otc_order_detail_dialog_save_image">Save the pictures to the album</string>
+    <string name="otc_order_detail_dialog_save_image_tips">Saved</string>
+    <string name="otc_order_detail_code_image_null">QR code image is empty</string>
+    <string name="otc_order_detail_title_2">To be paid</string>
+    <string name="otc_order_detail_title_status_2">Release timeout</string>
+    <string name="otc_order_detail_title_status_3">Waiting for release</string>
+    <string name="otc_appeal_detail_submit_proof_file_exists">File does not exist</string>
+    <string name="otc_order_detail_buy_nick_name">Buyer alias</string>
+    <string name="otc_order_detail_sell_nick_name">Seller alias</string>
+    <string name="otc_merchant_auth_tips_agree_content_title">OTC Service Agreement</string>
+
+    <string name="dialog_update_apk_text">Update now</string>
+    <string name="dialog_update_apk_text_notify_tips">Allow notification?</string>
+    <string name="dialog_update_title">Update to the latest version</string>
+    <string name="version_update_tp_start">Start download</string>
+    <string name="version_update_tp_fail">Download failed</string>
+    <string name="version_update_tp_finish">Download complete</string>
+
+    <string name="otc_add_pay_method_hint_txt">Please enter%s</string>
+    <string name="otc_add_pay_method_wy">E-bank</string>
+    <string name="otc_add_pay_method_paypal">paypal</string>
+    <string name="otc_issue_wy">E-bank payment</string>
+    <string name="otc_issue_paypal">paypal payment</string>
+    <string name="otc_add_pay_zxing_image">Add payment QR code (Optional)</string>
+
+    <string name="market_son_coin">Name</string>
+    <string name="market_son_new_price">Price</string>
+    <string name="asset_hide">Hide small assets</string>
+
+    <string name="login_safety_btn_text">Verify</string>
+    <string name="login_register_login_text">Login now</string>
+    <string name="login_register_login_no_account">No account?</string>
+    <string name="login_register_login_have_account">Already have an account?</string>
+    <string name="login_welcome_login">Welcome</string>
+    <string name="login_send_code">Send verification code to %s</string>
+    <string name="login_have_google_code">This login requires Google verification code</string>
+    <string name="login_safety_code_no_user">Security verification is not available</string>
+    <string name="login_register_email">Email registration</string>
+    <string name="login_forget_password">Retrieve password</string>
+    <string name="login_input_code">Enter verification code</string>
+    <string name="login_send_email_code_tips">If you have not received the verification code email, please check your mailbox for spam</string>
+    <string name="login_register_success">Registered</string>
+    <string name="login_setting_pwd_tips">Password within 6~20 digits, combination of at least two characters</string>
+    <string name="login_setting_bottom_tips">Click ”Registered”</string>
+    <string name="login_setting_bottom_tips1">means that you accept</string>
+    <string name="login_setting_bottom_tips3">《User Agreement》</string>
+    <string name="login_setting_bottom_tips4">XT User Service Agreement</string>
+    <string name="login_setting_get_code_tips3"> SMS verification code</string>
+    <string name="login_forget_pwd_hit_text">Mobile number/Email</string>
+    <string name="login_safety_google_code">Google code</string>
+    <string name="login_register_et_hint">Mobile number</string>
+    <string name="login_register_phone_reg">Register through phone number</string>
+    <string name="login_register_set_pwd">Set password</string>
+    <string name="login_register_reset_pwd">Reset password</string>
+    <string name="login_set_check_pwd">Confirm password</string>
+    <string name="login_captcha_error">Verification failed</string>
+    <string name="login_send_code_text">SMS</string>
+    <string name="login_contact_content">Please contact customer service immediately</string>
+    <string name="login_safety_input_google_code">Please enter Google code</string>
+    <string name="login_toast_input_account">Please enter the correct mobile number or email</string>
+    <string name="login_set_pwd_tips">Used for security verification when withdrawing coins, modifying security settings, and managing APIs</string>
+    <string name="login_set_pwd_title">Confirm security password</string>
+    <string name="login_set_pwd_finish">Done</string>
+
+    <string name="set_pwd_private_strategy">《Privacy policy》</string>
+    <string name="user_agreement">User Agreement</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="set_pwd_and">And</string>
+
+    <!-- 发红包相关 -->
+    <string name="red_packet_push">Gift Away Money</string>
+    <string name="red_packet_record">Records</string>
+    <string name="red_packet_count">Total</string>
+    <string name="red_packet_input_sum">Amount</string>
+    <string name="red_packet_number">Number</string>
+    <string name="red_packet_input_number">Input Quantity</string>
+    <string name="red_packet_ge">People</string>
+    <string name="red_packet_toast">Automatic return of uncollected money after 24 hours of original operation</string>
+    <string name="red_packet_toast4">By collecting money, the user automatically becomes my invitee</string>
+    <string name="red_packet_btn1">Equal</string>
+    <string name="red_packet_btn2">Random</string>
+
+    <string name="red_packet_toast1">Please enter coin amount for red packet</string>
+    <string name="red_packet_toast2">Please enter the number of red packets</string>
+
+    <string name="red_packet_toast3">Minimum of a divided portion cannot be less than %1$s%2$s</string>
+    <string name="red_packet_pass">Enter transaction password</string>
+    <string name="red_packet_share">Money collection password is generated</string>
+    <string name="red_packet_share_submit">Paste to friends</string>
+    <string name="red_packet_record_copy">copy code</string>
+    <string name="red_packet_record_general">Equally divided money</string>
+    <string name="red_packet_record_luck">Randomly divided money</string>
+    <string name="red_packet_record_num">%1$s/%2$s have been collected</string>
+    <string name="send_red_package">Money gifting record</string>
+    <string name="receive_red_package">Money collect record</string>
+
+    <string name="oper">Action</string>
+    <string name="super_partner_explain_title">Partner Description</string>
+    <string name="super_partner_explain_content">1、 Partner rating rules: the number of valid users or monthly transaction volume is based on the lower level. For example, the number of valid users reaches Level P5 and the monthly transaction volume reaches Level P3, then the partner level is P3;\n\n\n
+        2、 Number of valid users: Number of invited users become valid users. Users must meet the following three requirements at the same time could become valid users: 1) any digital asset with a total historical deposit is not less than 50 USDT or equivalent (ensure at least 48 hours keeping in the account) 2) at least one transaction record;\n\n\n
+        3、 Minimum transaction volume of 30 days: refers to the accumulated transaction amount within 30 days of the partners and all their subordinate users converted into equivalent transaction amount of BTC;\n\n\n
+        4、 Transaction fee discount: refers to the partner`s own trading action (excluding subordinates). For example, the transaction fee of coin is 0.2% (which is based on the setting of the platform background), and discounts are offered on this;\n\n\n
+        5、 Incentive ratio: refers to the commission fees generated by the transactions of all users recommended by themselves (including not completed advanced real-name authentication) which are awarded according to the corresponding partners grading rules;\n\n\n
+        6、 Partner upgrade rules: The system will upgrade the partner rating from 0-9 o`clock every day, based on 1) the number of valid users added in the previous day will reach the next level, and 2) whether the transaction volume for 30 consecutive days will reach The next level, if the above two points are reached, the upgrade will be performed according to the lower level of these two conditions;\n\n\n
+        7、 Partner downgrading rules: The partner evaluates the user level within 30 days after the last upgrade / downgrade. If the current level requirements are not met, the partner is downgraded according to the requirements of the partner level。\n\n\n
+        8、 Deposit and withdrawal fee, leveraged interest does not participate in commission rebate。\n\n\n
+        9、 If the invitee violates the corresponding risk control rules of the invitation rebate, the handling fee will not be returned to the inviter。\n\n
+        XT reserves the right of final decision on the interpretation of this activity</string>
+    <string name="invites_poster_select">Select Poster</string>
+    <string name="invites_poster_1">Community-based autonomous trading platform</string>
+    <string name="invites_poster_4">Buy valuable coins on XT</string>
+    <string name="invites_poster_5">The World` s Leading Digital Asset Trading Platform</string>
+    <string name="invites_poster_2">Welcome to XT.com</string>
+    <string name="invites_poster_3">Invite you to join XT.com. Long press to identify the QR code</string>
+    <string name="poster_save_image">Save picture</string>
+    <string name="super_my_recommend">My Exclusive Referring Method</string>
+    <string name="super_invite_qr">Referral QR Code</string>
+    <string name="super_select_poster">Select Poster</string>
+    <string name="super_copy_link">Copy Link</string>
+    <string name="super_copy_invite_code">Copy Code</string>
+    <string name="super_my_invite_data">Referral Data</string>
+    <string name="super_count_invite_account">Total Referred</string>
+    <string name="super_Invite_account">Valid users</string>
+    <string name="super_count_earnings">Total Rewards(USDT)</string>
+    <string name="super_month_earnings">Current month rewards(USDT)</string>
+    <string name="super_gain_commission">How to obtain commission</string>
+    <string name="super_add_partner">Become a partner</string>
+    <string name="super_create_link">Create Exclusive Referral Link</string>
+    <string name="super_invite_user">Invite Friends</string>
+    <string name="super_share_qr_user">Share the referral link or QR code to your friends</string>
+    <string name="super_get_commission">Obtain Commission</string>
+    <string name="super_register_commission">You will obtain commission if one registers and trades through your referral link</string>
+    <string name="super_commission_rate"> Commission Ratio</string>
+    <string name="vip_title_1">Valid Users</string>
+    <string name="vip_title_2">Minimum Trade Amount in 30-days</string>
+    <string name="vip_title_3">Transaction fee Discount</string>
+    <string name="vip_title_4">Commission Ratio</string>
+    <string name="vip_break">off</string>
+
+
+    <string name="partner_invite_record_time">Registration time</string>
+    <string name="partner_invite_record_friend">Invite Friends</string>
+    <string name="partner_invite_record_is_used">Is it a valid user</string>
+    <string name="partner_rake_back_record_time">Date</string>
+    <string name="partner_rake_back_record_profit">Income</string>
+    <string name="partner_rake_back_record_state">Status</string>
+    <string name="partner_rake_back_record_reward">Rewarded</string>
+    <string name="partner_rake_back_record_unreward">Pending rewards</string>
+
+    <string name="partner_invite_record_yes">Yes</string>
+    <string name="partner_invite_record_no">No</string>
+
+    <string-array name="partner_record_title">
+        <item>Rebate</item>
+        <item>Referral</item>
+    </string-array>
+
+    <string-array name="ieo_list_status">
+        <item>Coming Soon</item>
+        <item>Ongoing</item>
+        <item>Ended</item>
+        <item>Sold Out</item>
+    </string-array>
+    <string name="ieo_subscribe_count">Total Purchase</string>
+    <string name="ieo_start_time">Start time</string>
+    <string name="ieo_end_time">End time</string>
+    <string name="ieo_price">Purchase Price</string>
+    <string name="ieo_progress">Purchase Progress</string>
+    <string name="ieo_project_means">Project Info</string>
+    <string name="ieo_official_web">Website</string>
+    <string name="ieo_white_paper">White Paper</string>
+    <string name="ieo_start_tips">Time before start</string>
+    <string name="ieo_end_tips">Remaining time</string>
+    <string name="ieo_num">Round%s</string>
+    <string name="ieo_record_text">Records</string>
+    <string name="ieo_subscribe_coin">Purchase%s</string>
+    <string name="ieo_subscribe_money_user">Available (Wallet):%s</string>
+    <string name="ieo_subscribe_num">Purchase quantity:%s</string>
+    <string name="ieo_subscribe_edit_tips">Please enter the purchase amount</string>
+    <string name="ieo_subscribe_edit_tips1">Minimum</string>
+    <string name="ieo_subscribe_submit">Purchase Now</string>
+    <string name="ieo_subscribe_success">Purchase Success</string>
+
+    <string-array name="ieo_record_status">
+        <item>Completed</item>
+        <item>Pending Settlement</item>
+        <item>Canceled</item>
+    </string-array>
+    <string name="ieo_record_time">Purchase Time</string>
+    <string name="ieo_record_price">Purchase Amount</string>
+    <string name="ieo_record_number">Purchase quantity</string>
+    <string name="ieo_record_price2">Real Amount</string>
+    <string name="ieo_subscribe_count1">Total Purchase</string>
+    <string name="ieo_record_hint">Cancel the purchase?</string>
+    <string name="contract_title">Futures</string>
+    <string name="contract_open_title">Open a Futures Account</string>
+    <string name="contract_open">Open Now</string>
+    <string name="contract_open_1">Clicking “Open Now” means you agree to</string>
+    <string name="contract_open_2">《XT Futures User Service Agreement》</string>
+    <string name="contract_open_content">Notes:\n\u3000\u3000Futures trading is a high-risk investment, which not only brings more potential profits, but also contains huge risks. So when the market fluctuates sharply, the balance in your futures wallet may be completely lost.</string>
+    <string name="day">Day</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="second">Second</string>
+    <string name="txt_net_work_error">Loading error, click the blank to refresh</string>
+    <string name="system_maintain_title">The system is updating, thanks for your patient...</string>
+    <string name="system_maintain_time">Estimated Completion Time:</string>
+
+    <string name="dialog_tips_title">Notice</string>
+    <string name="dialog_tips_text_sp_2">Get Address Again</string>
+    <string name="dialog_tips_text_sp_3">Transfer in Spot Account</string>
+
+    <string name="id_card_name">ID Card</string>
+
+    <string name="otc_phone_way">Please bind your phone number first</string>
+    <string name="otc_bank_name_tips">Bank</string>
+    <string name="otc_buy_quick_no_free">%s(no fees)</string>
+
+    <string name="otc_buy_quick_title">Express</string>
+    <string name="otc_buy_select_title">P2P</string>
+    <string name="news_detail_share_tips1">Welcome to XT.COM</string>
+
+    <string name="deal_market_group1">Main zone</string>
+    <string name="deal_market_group2">DeFI Zone</string>
+    <string name="deal_market_group3">Innovative Quarters</string>
+
+    <string name="save_to_wx">Share to WeChat</string>
+    <string name="shared_success">Shared</string>
+    <string name="shared_cancel">Cancel Sharing</string>
+    <string name="shared_error">Sharing Failure</string>
+    <string name="deal_lever_share_title1">"Easy Gains!"</string>
+    <string name="deal_lever_share_title2">"Better Luck Next Time!"</string>
+    <string name="deal_lever_share_curr_rate">Leverage Rate(%s)</string>
+    <string name="deal_lever_shared_text">Buy valuable coins on XT</string>
+    <string name="set_more">Long</string>
+    <string name="set_low">Short</string>
+
+    <string name="deal_lever_earnings_rate">P/L Rate</string>
+    <string name="deal_lever_pandl_price">Floating P/L</string>
+    <string name="deal_lever_risk_rate2">Risk rate</string>
+    <string name="deal_lever_risk_rate2_title">Risk rate:</string>
+    <string name="deal_lever_risk_prive2">Liquidation Price</string>
+    <string name="deal_lever_risk_prive2_">Liquidation Price:</string>
+
+
+    <string name="otc_limit_price_amount">Limit amount</string>
+    <string name="circuit_market_data">Market Data</string>
+    <string name="circuit_user_data">Account Data</string>
+    <string name="circuit_address1">Line1</string>
+    <string name="circuit_address2">Line2</string>
+    <string name="circuit_address3">Line3</string>
+    <string name="circuit_address4">Line4</string>
+    <string name="circuit_address5">Line5</string>
+    <string name="circuit_address6">Line6</string>
+    <string name="circuit_address">Line</string>
+    <string name="circuit_ok">Access Available</string>
+    <string name="circuit_error">Unable to access</string>
+    <string name="circuit_centre">Accessing</string>
+    <string name="circuit_update">Switch Line</string>
+
+
+    <string name="dialog_share_title">Share to</string>
+    <string name="dialog_share_wx">Friends</string>
+    <string name="dialog_share_wxpyq">Moments</string>
+    <string name="dialog_share_btn_text">Share or Save</string>
+
+    <string name="dialog_otc_can_buy">Quantity(%s%s)</string>
+    <string name="otc_dialog_all_sell">Sell All</string>
+    <string name="otc_dialog_all_buy">Buy All</string>
+    <string name="otc_no_used_money">The coin needs to be transferred to Fiat Account before selling. Go to transfer now?</string>
+    <string name="raise_coin_tip">This withdrawal does not support the internal transfer. Continue?</string>
+
+
+    <string name="home_click_financial">Finance</string>
+    <string name="asset_finance_account">Yesterday`s Income</string>
+
+    <string name="kline_volume_text">Vol</string>
+    <string name="trade_not_open_hint">The trading pair is not open, and no order is available.</string>
+    <string name="bill_raise_hash">TXID</string>
+    <string name="otc_issue_manual_price_update">Set Fixed Range</string>
+    <string name="otc_issue_input_manual_price">Please Set Fixed Range</string>
+    <string name="otc_issue_hint_manual_price">For example, if the floating price is 0.1 %1$s lower than the latest price, enter `-0.1`; if the floating price is 0.1 %2$s higher than the latest price, enter `0.1`.</string>
+    <string name="select_coin_hot">Hot</string>
+    <string name="select_coin_list">Coin List</string>
+
+    <string name="exit">Exit</string>
+    <string name="roots">Your device has been rooted, the security of the application may be threatened!</string>
+    <string name="asset_seed_buy">Buy</string>
+    <string name="home_defi_plate">DeFi Zone</string>
+    <string name="home_buy_coin">Contract Bonus</string>
+
+    <string name="continue_do">Continue</string>
+    <string name="ssl_trusted">The certification authority is not trusted.</string>
+    <string name="ssl_expired">The certificate has expired.</string>
+    <string name="ssl_mismatch">The certificate doesn’t match the hostname.</string>
+    <string name="ssl_valid">The certificate is not yet effective.</string>
+    <string name="ssl_date">The date of the certificate is invalid.</string>
+    <string name="ssl_generic">Error Occurred.</string>
+    <string name="ssl_continue">Do you want to continue?</string>
+    <string name="open_time_title">Open Soon</string>
+    <string name="opem_time">Open Time</string>
+    <string name="bill_block_query">Block Query</string>
+    <string name="url_error_hint">The current line is unstable, please switch lines.</string>
+
+    <string name="experience_title1">The event of receiving contract trial funds is officially starting!</string>
+    <string name="experience_title2">A bag of USDT is waiting for you!</string>
+    <string name="experience_noob">Newbie Benefits</string>
+    <string name="experience_advance">Advanced Benefits</string>
+    <string name="experience_welfare">Rules</string>
+    <string name="experience_issue">FAQ</string>
+    <string name="experience_draw">Receive Now</string>
+    <string name="draw_ok">Receive Successfully</string>
+    <string name="experience_deal">To Trade</string>
+    <string name="experience_invite">To Invite</string>
+    <string name="experience_add_community">To Join</string>
+    <string name="experience_add_trans">To Transfer</string>
+
+    <string name="experience_wrlfare_hint">1.The trial funds can be used as a trading margin and cannot be withdrawn. The profit can be withdrawn. Trial funds must be activated through any transaction within 15 days. The time is calculated from the date of receiving the funds. If not activated within 15 days, the funds will expire and become invalid. Once activated, they will be permanently valid.
+    \n\n2.There is only one chance to receive the trial funds when your own funds are credited into the contract for the first time, and you will get the corresponding trial funds based on the first credited amount. The standard for the first credited amount is adjusted to market conditions. The first deposit of USDT≥1000, you can receive 5USDT trial funds; the cumulative deposit of USDT≥10,000, you can receive 10USDT trial funds.
+    \n\n3.The maximum number of friends you can invite is 10, and you won’t receive the trial funds after inviting 10 people.
+    \n\n4.Only the accumulated deposits after 00:00 on October 23 (UTC+8),2020 can be counted as a condition to receive trial funds.
+    \n\n5.This event supports USDT contracts, but does not support currency-based contracts temporarily. If the account is transferred out of the currency-based contract, all trial funds will be emptied.
+    \n\n6.If the contract account contains the trial funds, the transfer-out operation can be available in case there is no position or open orders.
+    \n\n7.Any malicious withdrawal of trial funds will result in the account being blocked.</string>
+    <string name="experience_issue_hint11">1.What are the trial funds?</string>
+    <string name="experience_issue_hint12">2.How to view my trial funds?</string>
+    <string name="experience_issue_hint13">3.What should I do if the trial funds are not received?</string>
+    <string name="experience_issue_hint21">Trial funds can be used as trading margin, deducting account losses and trading fees. When deducting the corresponding expenses, the trial funds will be deducted in priority over the user’s own principal. The trial funds are aimed to enable new users to test our contract products and trading functions in a risk-free way in a real trading environment. New users can get trial funds after subscribe to the community, and the profits gained from trading via trial funds can be withdrawn.</string>
+    <string name="experience_issue_hint22">Please check trial funds in your “Contract Assets”, and the trial funds are included in “Account Balance”.</string>
+    <string name="experience_issue_hint23">The trial funds should arrive at account after being received. If you do not receive the funds, please do not hesitate to contact our 7/24 customer service.</string>
+    <string name="experience_record">Record</string>
+    <string name="experience_share_title">Scan the QR code to join the official group</string>
+    <string name="experience_qq"> (QQ Group: 564783285)</string>
+    <string name="experience_share_hint">After joining the group, contact the administrator to receive the trial funds.</string>
+    <string name="bill_wallet_number">Account Balance</string>
+
+    <string name="asset_title_rest">Other</string>
+    <string name="asseet_type_5">SWAP</string>
+    <string name="asseet_type_7">Pool</string>
+    <string name="asseet_type_8">Quanto</string>
+
+    <string name="all_coin">Quanto</string>
+    <string name="all_coin_contract">Quanto</string>
+    <string name="can_open_more">Max Long</string>
+    <string name="can_open_empty">Max short</string>
+    <string name="add_cash">Add Margin</string>
+    <string name="reduce_cash">Reduce Margin</string>
+    <string name="current_cash">Current Position Margin</string>
+    <string name="up_to">Max to Add</string>
+    <string name="down_to">Max to Reduce</string>
+    <string name="adjust_parity">Adjusted Reference Liq. Price</string>
+    <string name="limit_close_out">Limit Liq.</string>
+    <string name="market_close_out">Market Liq.</string>
+    <string name="piece">Cont</string>
+    <string name="num_piece">%s Cont</string>
+    <string name="adjust_lever">Adjust Margin</string>
+    <string name="lever_warning">The current margin is high, please be aware of risks.</string>
+    <string name="buyin_more">Buy/Long</string>
+    <string name="sellout_empty">Sell/Short</string>
+    <string name="add_store">Isolated %sx</string>
+    <string-array name="deal_type_allcoin">
+        <item>Limit Order</item>
+        <item>Market Order</item>
+    </string-array>
+
+    <string name="number_unit">Cont</string>
+    <string name="number_unit2">Cont(%s)</string>
+    <string name="number_unit_hint">Cont</string>
+    <string name="have_position">Positions(%s)</string>
+    <string name="entrust_unit">Order Price(USDT)</string>
+    <string name="entrust_num">Order Vol</string>
+    <string name="turnover">Traded(Cont)</string>
+    <string name="entrust_hint">Are you sure to cancel the order?</string>
+    <string name="lever_hint">There are open positions or pending orders,so the margin cannot be modified.</string>
+    <string name="pos_aver">Avg Price</string>
+    <string name="pos_num">Positions</string>
+    <string name="margin_unit">Margin(%s)</string>
+    <string name="profit">Unrealized P/L</string>
+    <string name="flat_price">Liq.Price</string>
+    <string name="adjust_price">Set Margin</string>
+    <string name="close_position">Close</string>
+    <string name="open_price">Open Price</string>
+    <string name="con_rate">Yield Rate(%)</string>
+    <string name="con_his">All</string>
+    <string name="his_deal">Transactions</string>
+    <string name="con_bill">Bills</string>
+    <string name="had_done">Traded</string>
+    <string name="had_yield">Realized P/L</string>
+    <string name="total_cash">Total Amount(%s)</string>
+
+    <string name="record_type1">Transfer In</string>
+    <string name="record_type2">Transfer Out</string>
+    <string name="record_type3">Spot Trading</string>
+    <string name="record_type4">Forced Liq.</string>
+    <string name="record_type5">System Liq.</string>
+    <string name="record_type6">fee</string>
+    <string name="record_type7">Liq. P/L Transfer-in</string>
+    <string name="record_type8">Freeze Margin</string>
+    <string name="record_type9">Unfreeze Margin</string>
+    <string name="record_type10">Freeze fee</string>
+    <string name="record_type11">Unfreeze fee</string>
+    <string name="record_type12">Funding Fee</string>
+    <string name="set_price">Mark price %s</string>
+    <string name="set_price_only">Mark price</string>
+    <string name="buy_in">Open Long</string>
+    <string name="sell_out">Sell short</string>
+    <string name="price_unit">Price(%s)</string>
+
+    <string name="deal_entrust_news_value">Current order(%s)</string>
+    <string name="open_more">Open Long</string>
+    <string name="out_put">Close Short</string>
+    <string name="open_empty">Open Short</string>
+    <string name="out_more">Close Long</string>
+
+    <string name="otc_contact_1">Contact Buyer</string>
+    <string name="otc_contact_2">Contact Seller</string>
+    <string name="otc_contact_hint_1">Buyer Mobile</string>
+    <string name="otc_contact_hint_2">Seller Mobile</string>
+    <string name="otc_contact_name_1">Name</string>
+    <string name="otc_contact_name_2">Name</string>
+    <string name="otc_contact_number_1">Number</string>
+    <string name="otc_contact_number_2">Number</string>
+
+    <string name="expired">Expired</string>
+    <string name="fund_contract_hint">All trail funds will be cleared after the transfer.</string>
+    <string name="trade_not_number_hint">The insufficient balance fails to place an order. Please adjust your order or transfer assets.</string>
+    <string name="trade_not_number_left">OK</string>
+    <string name="super_partner_contract_title">Contract Partner Description</string>
+    <string name="super_partner_contract_content">1. Partner rating rules: the number of valid users or monthly transaction volume is based on the lower level. For example, the number of valid users reaches Level P5 and the monthly transaction volume reaches Level P3, then the partner level is P3 ;\n\n\n
+        2. Number of Valid Users: Number of invited users become valid users. Users must meet the following requirements at the same time could become valid users: 1) any digital asset with a total historical deposit is no less than 50 USDT or equivalent (kept in the account at least 48 hours) 2) at least one contract transaction record;\n\n\n
+        3. Minimum Contract Trade Amount in 30-days: refers to the accumulated contract transaction amount within 30 days of the partners and all their subordinate users converted into equivalent transaction amount of USDT;\n\n\n
+        4. Commission ratio: refers to the commission fee generated by the contract transactions of all users recommended by themselves (including not completed advanced real-name authentication) which are awarded according to the corresponding partners grading rules;\n\n\n
+        5. Partner upgrade rules: The system will upgrade the partner rating from 0-9 o`clock every day, based on 1) the number of valid users added in the previous day will reach the next level, and 2) whether the transaction volume for 30 consecutive days will reach The next level, if the above two points are reached, the upgrade will be performed according to the lower level of these two conditions.\n\n\n
+        6. Partner downgrading rules: The partner evaluates the user level within 30 days after the last upgrade / downgrade. If the current level requirements are not met, the partner is downgraded according to the requirements of the partner level.\n\n\n
+        7. If the invitee violates the corresponding risk control rules of the invitation rebate, the handling fee will not be returned to the inviter.\n\n\n
+        XT reserves the right of final decision on the interpretation of this activity.</string>
+    <string name="all_entrust_below">View more after order filtering</string>
+    <string-array name="all_entrust_direction">
+        <item>All Orders</item>
+        <item>Buy Orders</item>
+        <item>Sell Orders</item>
+    </string-array>
+    <string-array name="all_entrust_type">
+        <item>Status</item>
+        <item>Completed</item>
+        <item>Canceled</item>
+        <item>In Settlement</item>
+    </string-array>
+    <string-array name="all_entrust_item_type">
+        <item>Buy Limit</item>
+        <item>Sell Limit</item>
+        <item>Buy Market</item>
+        <item>Sell Market</item>
+        <item>Stop P/L</item>
+    </string-array>
+    <string name="all_entrust_number">Order Amount</string>
+    <string name="all_entrust_complete_price">Traded Price</string>
+    <string name="all_entrust_complete_money">Total Traded</string>
+    <string name="entrust_detail_time">Traded Time</string>
+    <string name="entrust_detail_title">Traded Details</string>
+    <string name="otc_order_detail_close_hint">After canceling three orders, you cannot place another order on the same day, please be careful!</string>
+    <string name="otc_order_detail_close_left">Continue</string>
+
+    <string name="home_nft_plate">XT Pool</string>
+    <string name="home_Launchpad">XTStarter</string>
+    <string name="home_pos">POS Mining</string>
+    <string name="home_image_title">Invest and Gain</string>
+    <string name="home_image_hint">Come to XT.COM for Easy Gains.</string>
+    <string name="pool_set_address">Pool Account Binding Success</string>
+    <string name="pool_dialog_title">Create Mining Account</string>
+    <string name="pool_dialog_address">Receiving Address</string>
+    <string name="pool_dialog_hint">The default is XT Mining Pool Account.</string>
+    <string name="pool_dialog_submit">Create Now</string>
+
+    <string name="transaction_referral_text">Intro</string>
+    <string name="mine_fee">fee Rate</string>
+    <string name="fee_coin">Spot Trading Fee Rate</string>
+    <string name="fee_topup">Deposit &#038; Withdrawal Fee</string>
+    <string name="fee_head_title">Your level of fee rate is</string>
+    <string name="fee_head_content">Log in to check your fee rate</string>
+    <string name="fee_head_content21">To upgrade to %1$s, you need to create any digital currency transaction equivalent to %2$s %3$s and refer %4$s new valid users.</string>
+    <string name="fee_head_content22">To upgrade to %1$s, you need to create any digital currency transaction equivalent to %2$s %3$s.</string>
+    <string name="fee_head_content23">To upgrade to%1$s, you need to refer %2$s new valid users.</string>
+    <string name="fee_head_content24">You have reached the next level. Please wait until the level is refreshed in the early morning to enjoy the lower rate.</string>
+    <string name="fee_head_content9"> You are at Level %s, and can enjoy the most preferential fee. Please keep up.</string>
+    <string name="fee_head_content99">You belong to our internal level, so the maker/taker fee rate is%s</string>
+    <string name="fee_dialog">What are Maker and Taker?</string>
+    <string name="fee_dialog_title_1">What is Maker?</string>
+    <string name="fee_dialog_content_1">It refers to that when you place an order with the price you specify (below the market price or higher than the market price when you place a buy order), the order will not immediately trade with other orders in the depth list, but enter the depth list and wait for the other party to trade with your order.</string>
+    <string name="fee_dialog_title_2">What is Taker?</string>
+    <string name="fee_dialog_content_2">It refers to that when you place an order with the price you specify (which crosses the order in the depth list), you take initiative to trade with other orders in the depth list.</string>
+    <string name="fee_list_lever">Level</string>
+    <string name="fee_list_number"><![CDATA[30-day BTC Volume &/or Number of Valid Users]]></string>
+    <string name="fee_list_person">people</string>
+    <string name="fee_top_title1">Deposit/Withdrawal Status</string>
+    <string name="fee_top_rate">Deposit/Withdrawal Fee Rate</string>
+    <string name="fee_top_feenumber">fee for Single Withdrawal</string>
+    <string name="fee_top_number">Max/Daily Limit of Single Withdrawal</string>
+    <string name="contract_maintain_title">The contract module is under maintenance and upgrade. Please try again later...</string>
+    <string name="referral_issue_time">Issue Time</string>
+    <string name="referral_issue_num">Total Supply</string>
+    <string name="referral_circulate_num">Total Circulation</string>
+    <string name="referral_numerous_price">Crowdfunding Price</string>
+    <string name="home_up_coin">Promote Listing</string>
+
+    <string name="fiat_trade">Fiat Trading</string>
+    <string name="credit_card">Third-party payment</string>
+    <string name="need_buy">Buy</string>
+    <string name="need_sell">Sell</string>
+    <string name="cost">Pay</string>
+    <string name="input_money">Enter Amount</string>
+    <string name="you_may_get">Receive</string>
+    <string name="pay_method">Payment Method</string>
+    <string name="pay_channel">Payment Channel</string>
+    <string name="pay_channel_mo_num">Payment Channel</string>
+    <string name="pay_detail">Payment Detail</string>
+    <string name="pay_total">Total Amount</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimer_detail1">You will now leave XT and be taken to Banxa.please prepare the required information for KYC verification and payment account，Services relating to payments are provided by Banxa which is a separate platform owned by a third party. Please read and agree to Banxa’s</string>
+    <string name="disclaimer_detail2">\tTerms of Use\t</string>
+    <string name="disclaimer_detail3">before using their service. For any questions relating to payments, please contact support@banxa.com. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.</string>
+    <string name="agree_statement">I have read and agreed.</string>
+    <string name="limit_buy">Buy Now</string>
+    <string name="explain">Note</string>
+    <string name="explain_content">Credit cards issued in Mainland China are not supported yet. Continue?</string>
+    <string name="otc_min">Min amount</string>
+    <string name="otc_max">Max amount</string>
+
+    <string name="mine_fee2">Rate Discount</string>
+    <string name="mine_ticket">My Vouchers</string>
+    <string name="ticket_invalid">Expired</string>
+    <string name="ticket_invalid_date">Expiry Date</string>
+    <string name="ticket_invalid_time">Expiry Date</string>
+    <string name="ticket_value">Voucher Par</string>
+    <string name="ticket_equity">You’ve got</string>
+    <string name="ticket_rule">Usage Rules</string>
+    <string name="ticket_detail">Voucher Details</string>
+
+    <string name="ieo_frozen_num">Frozen quantity</string>
+    <string name="ieo_reward_num">Number of rewards</string>
+
+    <string name="deal_abs_hint_buy1">The order price exceeds the current market price %s. Are you sure to place an order?</string>
+    <string name="deal_abs_hint_buy2">The order price exceeds the current trigger price %s. Are you sure to place an order?</string>
+    <string name="deal_abs_hint_sell1">The order price is lower than the current market price %s. Are you sure to place an order?</string>
+    <string name="deal_abs_hint_sell2">The order price is lower than the current trigger price %s. Are you sure to place an order?</string>
+    <string name="asset_history">History record</string>
+    <string name="address_memo_hint">Please confirm whether the Memo is required for the token receiving address. Failure to fill in or incorrect filling will result in loss of assets. Other exchanges or wallets also refer to Memo as Tag, Digital ID, etc.</string>
+
+    <string name="share_app">Share APP</string>
+
+    <string name="c_circuit">You need to restart the APP to take effect after line switching</string>
+    <string name="c_lan">You need to restart the application after language switching so that it will take effect</string>
+    <string name="limit_reset">Restart Now</string>
+
+    <string name="b_s">Buy &amp; Sell</string>
+    <string name="hide_cancel">Hide Canceled Orders</string>
+    <string name="canceling">Canceling</string>
+    <string name="part_trade">Partially Traded</string>
+    <string name="all_trade">All Traded</string>
+    <string name="wait_trade">Waiting for trading</string>
+
+    <string name="contract_name">SWAP Contract</string>
+    <string name="funds_rate">Funding</string>
+    <string name="super_share_user">You can win fee discounts and high commissions if you successfully get referrals.</string>
+    <string name="img_bork">The image is corrupted or does not exist. Please reselect</string>
+
+    <string name="interest">Interest</string>
+    <string name="day_rate">Daily Interest</string>
+    <string name="market">Market</string>
+    <string name="borrowings">Amount</string>
+    <string name="max_return">Maximum Available to Repay</string>
+    <string name="avai_balance">Available Balance</string>
+    <string name="has_loan">Borrowed</string>
+    <string name="total_liability">Total Liabilities</string>
+    <string name="max_borrow">Maximum Borrowing Limit</string>
+    <string name="borrow_suc">Borrowed</string>
+    <string name="refund_suc">Repaid</string>
+    <string name="borrow">Borrow</string>
+    <string name="history_record">History</string>
+    <string name="borrow_history">Borrow Records</string>
+    <string name="refund_history">Repay Records</string>
+    <string name="interest_history">Interest Records</string>
+    <string name="no_risk">Risk-free</string>
+
+    <string name="coin_content1">Notes of Caution for %1$s Trading</string>
+    <string name="coin_content2">Unlike other digital assets, %1$s adopts a stabilized supply and price mechanism and deploys the rebase according to market demand.</string>
+    <string name="coin_content3">Rebasing progress and schedule.</string>
+    <string name="coin_content4">1.Token supply benchmark every 24 hours/day %1$s (UTC +8).</string>
+    <string name="coin_content5">* According to the rebase progress, the completion time may be earlier or later than the scheduled time.</string>
+    <string name="coin_content6">2.%1$s deposit and withdrawal suspension time: %2$s (UTC +8).</string>
+    <string name="coin_content7">3.%1$s transaction order cancellation policies: If the number of tokens after rebase is less than the number currently owned by the user, all transactions will be suspended and all orders be cancelled (including API traders).</string>
+    <string name="coin_content8">4.For details, please refer to the %1$s white paper.</string>
+    <string name="coin_content9">During the process, asset losses may occur due to the increase or decrease in the number of %1$s owned by users.</string>
+    <string name="coin_content10">Please keep in mind that the price of digital assets is subject to high volatility. Most digital assets are not backed by any entity of value and still dependent on the value of government-issued fiat currencies. Please make your investment carefully.</string>
+    <string name="today_no_show">Do Not Show Again for Today</string>
+    <string name="ads_up">Automatically displayed after the ad is posted.</string>
+    <string name="ads_up_content">The payment method selected for the ad is no longer available. Please re-edit the ad and select a payment method</string>
+    <string name="re_edit">Re-edit</string>
+
+    <string name="deal_type_content">Market Trade refers to making a quick deal at the current market price. Slippage may occur when an order is made on Market Trade, resulting in higher costs or fee.</string>
+    <string name="deal_type_content2">Limit Trade refers to buying and selling at a specific or better price, but the deal will not necessarily be concluded.</string>
+
+    <string name="min_money">Minimum Subscription Amount %1$s%2$s</string>
+    <string name="recharge_mina">1 MINA will be deducted for the purchase of block storage space when you activate the address due to the unique features of the MINA network. The fee will be deducted when you make your first deposit and it is not charged by the platform.</string>
+
+    <string name="ing_num">In progress(%1$d)</string>
+    <string name="end_num">Ended(%1$d)</string>
+
+    <string name="want_pay">Pay</string>
+    <string name="i_will_get">I will get</string>
+    <string name="best_choose">Best Choice</string>
+    <string name="detail1">You will now leave XT and be taken to Mercuryo.please prepare the required information for KYC verification and payment account，Services relating to payments are provided by Mercuryo which is a separate platform owned by a third party. Please read and agree to Mercuryo’s</string>
+    <string name="detail2"> Terms of Service</string>
+    <string name="detail3"> before using their service. For any questions relating to payments, please contact support@mercuryo.io. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.</string>
+    <string name="no_pay_way">No payment method available</string>
+    <string name="no_pay_channel">No payment channel available</string>
+
+    <string name="lasted_look">Recently Viewd</string>
+    <string name="plate">Zone</string>
+
+    <string name="fast_buy_coin">Buy Crypto</string>
+    <string name="no_fee">Easy transfers with no fee</string>
+    <string name="visa_buy">Support Visa, Mastercard, and many more</string>
+
+    <string name="trans_coin">Coin</string>
+    <string name="trans_amount">Amount</string>
+    <string name="asset_trans_lever">Market</string>
+    <string name="baby_doge_detail">An additional 10% fee for each transfer will be charged by the official smart contract of BABYDOGE, not by the platform. And another additional 10% service fee for each deposit will be charged to cover the cost accumulation. The actual credited amount of BABYDOGE, therefore, is 80% of the amount deposited.</string>
+    <string name="net_to_change">The current network line is unstable. Switch to another line?</string>
+    <string name="no_need">No, I’m good</string>
+    <string name="to_change">Switch now</string>
+
+    <string name="api_response">Network latency</string>
+    <string name="do_let">Operation</string>
+    <string name="api_detail">Choose the line with lower network latency.</string>
+    <string name="loading">Loading</string>
+    <string name="connect_timeout">Connection timed out</string>
+
+    <string name="vote">Vote</string>
+    <string name="vote_up_coin">Listing Vote</string>
+    <string name="get_more_ticket">Get more votes</string>
+    <string name="more_ticket_detail">The number of votes you can cast is based on the amount of assets you hold and every %1$s of any equivalent assets will be credited with one vote. Due to market fluctuation, users‘ assets at 00:00 (UTC) everyday will be valued at USDT. </string>
+    <string name="to_recharge">Deposit Now</string>
+    <string name="no_begun">Not yet started</string>
+    <string name="vote_record">Records</string>
+    <string name="vote_hint">Vote for free listing &amp; rewards </string>
+    <string name="act_rule">Aactivity Rules</string>
+    <string name="wanna_up_coin">Free Listing</string>
+    <string name="i_vote_num">I can cast:</string>
+    <string name="join_vote">I want to vote</string>
+    <string name="coin_introduce">Token Info</string>
+    <string name="vote_rule">Voting Rules</string>
+    <string name="get_ticket_num">Votes obtained</string>
+    <string name="ticket_num_detail">The number of votes you can cast is based on the amount of assets you hold. Due to market fluctuation, users’ past 7-day average of assets at 00:00 (UTC) will be valued at USDT. Every %1$s of any equivalent assets will be credited with one vote, and the number of votes available will be updated after your assets are valued in USDT. </string>
+    <string name="vote_rule_detail">You can cast when you acquire available votes. If the participating project plans to launch an airdrop to canvass for votes, XT.COM is willing to provide marketing service for free.If the project wins the contest, XT.COM will distribute rewards to users’ accounts according to the rules. Winning users share the activity token reward according to the proportion of their votes to the total number of votes in the activity.</string>
+    <string name="ranking_standard">Ranking Criteria</string>
+    <string name="ranking_standard_detail">Projects will be ranked according to the combined votes on the platform and community. The project ranked first will be qualified for free listing, and the rest can participate in the next phase. Previous voting data cannot be accumulated.</string>
+    <string name="free_up_coin">Free Listing</string>
+    <string name="free_up_coin_detail">The winning project will be listed for free and are entitled to all listing services in the Innovation Zone on XT.COM.</string>
+    <string name="coin_type">Token Type</string>
+    <string name="coin_type_step1">The token should be based on ERC20, TRC20, BEP2, or BEP20 chain. (If not, further business connection is required.)</string>
+    <string name="community_requirements">Community</string>
+    <string name="coin_type_step2">The number of project‘s global community members should be greater than 5000.</string>
+    <string name="coin_type_step3">The project party should fill in the online application form with necessary information, including smart contract address, official website, social media platform, white paper, etc. within 48 hours after receiving the form link.</string>
+    <string name="material">Material</string>
+    <string name="coin_type_step4">A high resolution image of the project logo</string>
+    <string name="audit">Review</string>
+    <string name="coin_type_step5">After XT.COM Listing Team review, the final results will be provided within 1-3 business days before the event.</string>
+    <string name="ticket">Votes</string>
+    <string name="entry_requirements">Requirements</string>
+    <string name="ticket_num">Number of votes</string>
+    <string name="input_ticket_num">Please enter the number of votes you want to cast</string>
+    <string name="max_ticket_num">You can cast up to X votes</string>
+    <string name="reward_detail">Share:%1$s%2$s</string>
+    <string name="act_detail">Event Time:%1$s - %2$s(UTC+8)</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day_show">Day</string>
+    <string name="had_vote_ticket">%1$s votes</string>
+    <string name="no_shop_buy">Merchant purchase is not supported</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="ended">Ended</string>
+    <string name="act_no_start">Not started</string>
+
+    <string name="financial">Savings</string>
+    <string name="mining">Staking</string>
+    <string name="shop">Hashrate Store</string>
+    <string name="free_list">Listing Vote</string>
+
+    <string name="limit_buy_tip">The price of order you placed has triggered a limit order. Please confirm to place your order at the highest allowed bid price of %1$s.</string>
+    <string name="limit_sell_tip">The price of order you placed has triggered a limit order. Please confirm to place your order at the lowest allowed ask price of %1$s.</string>
+    <string name="market_buy_tip">The market order you placed has triggered a limit order. Please confirm to place your order at the lowest allowed bid price of %1$s.</string>
+    <string name="market_sell_tip">The market order you placed has triggered a limit order. Please confirm to place your order at the lowest allowed ask price of %1$s.</string>
+
+    <string name="order_min_tip">The total amount of the order cannot be less than %1$s%2$s</string>
+    <string name="basic_set">Basic Settings</string>
+    <string name="balance_of">Balance:%1$s %2$s</string>
+    <string name="sell_quantity">Sell Quantity</string>
+    <string name="buy_quantity">Buy Quantity</string>
+    <string name="min_per_sale_sell">Single Minimum Sell Quantity</string>
+    <string name="max_per_sale_sell">Single Maximum Sell Quantity</string>
+    <string name="min_per_sale_buy">Single Minimum Buy Quantity</string>
+    <string name="max_per_sale_buy">Single Maximum Buy Quantity</string>
+    <string name="reference_price">Reference Price：</string>
+    <string name="price_set">Price Settings</string>
+    <string name="pricing">Pricing Method</string>
+    <string name="biggest">Maximum</string>
+    <string name="fixed_price">Fixed Price</string>
+    <string name="floating_price">Floating Price</string>
+    <string name="floating_type">Floating Method</string>
+    <string name="buy_price">Buy Price</string>
+    <string name="sell_price">Sell Price</string>
+    <string name="hidden_price">Hidden Price</string>
+    <string name="trade_show">Transaction Instructions</string>
+    <string name="issue_bank">Bank Card</string>
+    <string name="issue_ali">Alipay</string>
+    <string name="issue_wechat">WeChat</string>
+    <string name="issue_wy">Online Banking</string>
+    <string name="issue_paypal">paypal</string>
+    <string name="floating_rate">Floating Ratio</string>
+    <string name="floating_money">Floating Amount</string>
+    <string name="set_floating_rate_title">Set the floating ratio</string>
+    <string name="set_floating_rate_content">For example, if the floating price stays 10% lower than the latest price， please enter -10, and vice versa.</string>
+    <string name="set_floating_price_title">Set a Fixed Floating Amount.</string>
+    <string name="set_floating_price_content">For example, if the floating price stays 0.1CNY lower than the latest price, please enter -0.1, and vice versa.</string>
+    <string name="buy_sell_price_content">The price is calculated based on the current reference price and will change with the exchange rate.</string>
+    <string name="buy_hidden_price_content">When the floating price is equal to or higher than the hidden price you set, the system will automatically delist your AD, and vice versa.</string>
+    <string name="sell_hidden_price_content">When the floating price is equal to or lower than the hidden price you set, the system will automatically delist your AD, and vice versa.</string>
+    <string name="input_floating_rate">Please enter the floating ratio</string>
+    <string name="input_floating_price">Please enter the floating amount</string>
+    <string name="auto_price">Automatic calculation according to reference prices</string>
+    <string name="input_hidden_price">Please enter the hidden price</string>
+    <string name="input_buy_price">Please enter the buy price</string>
+    <string name="input_sell_price">Please enter the sell price</string>
+    <string name="ad_detail">Ad Details</string>
+    <string name="input_note">Please enter remarks</string>
+    <string name="right_floating_price">Please enter a valid floating amount</string>
+    <string name="trade_direction">Trade Direction</string>
+    <string name="single_limit">Maximum Single Trade Amount</string>
+    <string name="sell_issue">Sell</string>
+    <string name="min_max_buy_tip">Please enter the valid maximum and minimum single buy quantity</string>
+    <string name="min_max_sell_tip">Please enter the valid maximum and minimum single sell quantity</string>
+    <string name="verify_code">Verification Code</string>
+    <string name="get">Get</string>
+    <string name="sure_safety_toast_new_login_pwd">Please re-enter new password</string>
+    <string name="sure_safety_toast_new_pwd">Please re-enter the security password</string>
+    <string name="update_login_pwd_with_exit_login">Resetting sign-in password will result in a logout. Please sign in again later.</string>
+    <string name="no_withdrawals_24hours">Withdrawals are unavailable within 24 hours after security password modification</string>
+    <string name="no_withdrawals_24hours2">Withdrawals are unavailable within 24 hours after security password reset</string>
+    <string name="sure_update">Confirm </string>
+    <string name="lost_your_phone">Lost mobile number?</string>
+    <string name="phone_no">Mobile Number</string>
+    <string name="new_phone_no">New Mobile Number</string>
+    <string name="input_new_phone_no">Please enter the new mobile number</string>
+    <string name="input_old_phone_code">Please enter the old mobile verification code </string>
+    <string name="input_new_phone_code">Please enter the new mobile verification code</string>
+    <string name="upload_photo">Upload the photo</string>
+    <string name="requirements_upload_photo">(Requirement: Holding your ID card in the right hand, and the documentation with XT.COM, the authenticator signature and  authentication time in the left hand)</string>
+    <string name="upload_photo_hint">Uplode images (JPG，JPEG，PNG) under 1M and submit the modifying phone number request. We will review your application ASAP.</string>
+    <string name="lost_google_code">Google Authenticator Code Lost</string>
+    <string name="new_safety_secret_key">New Google Secretkey</string>
+    <string name="new_google_code">New Google Authentication Code</string>
+    <string name="user_toast_input_new_google_code">Please enter the new Google authentication code</string>
+    <string name="reset_phone">Reset Your Phone</string>
+    <string name="upload_img_fail">Failed to uplode the image. Please try again</string>
+    <string name="upload_suc">Submitted successfully.Please wait patiently for the review result</string>
+    <string name="reset_google">Reset Google Authenticator</string>
+
+    <string name="set_gestures">Set Gesture Password</string>
+    <string name="set_gestures_tip">Please set gesture password for your asset safety</string>
+    <string name="finger">Fingerprint</string>
+    <string name="gestures">Gesture</string>
+    <string name="draw_unlock_pattern">Draw an unlock pattern</string>
+    <string name="pattern1">Please draw pattern again to confirm</string>
+    <string name="pattern2">Pattern recorded!</string>
+    <string name="pattern3">Unlock successful!</string>
+    <string name="pattern4">Slide your finger to connect at least %d dots. Please redraw.</string>
+    <string name="pattern5">Inconsistent with the last pattern. Please redraw. </string>
+    <string name="pattern6">Wrong password! You have %d chances left.</string>
+    <string name="pattern7">Welcome</string>
+    <string name="finger1">Click for fingerprint settings</string>
+    <string name="review">Under Review</string>
+    <string name="account_safe">Account Security</string>
+    <string name="account_login">Log In</string>
+    <string name="finger_set_suc">Fingerprint saved</string>
+    <string name="finger_set_cancel">Cancelled</string>
+    <string name="finger_set_error">Fingerprint not recognized</string>
+    <string name="verify_fingerprint_unlocking">Please verify fingerprint unlock</string>
+    <string name="pwd_login">Log in via password</string>
+
+    <string name="etf">ETF</string>
+    <string name="try_more">Too many attempts. Please retry later.</string>
+    <string name="manage_fee">Management Fee:</string>
+    <string name="manage_fee2">Management Fee</string>
+    <string name="net_worth">Net Value:</string>
+    <string name="net_worth2">Net Value</string>
+    <string name="purchase">Subscribe</string>
+    <string name="redemption">Redeem</string>
+    <string name="purchase_num">Unit</string>
+    <string name="redeem_num">Unit</string>
+    <string name="purchase_tip">Subscription Price：subject to the subscription results</string>
+    <string name="redemption_tip">Redemption Price：subject to the redemption results</string>
+    <string name="shalt_redeem_management">Subscription &amp; Redemption Management</string>
+    <string name="purchase_can_use">Available：%1$s %2$s</string>
+    <string name="successful_applications">Success</string>
+    <string name="successful_redemption">Success</string>
+    <string name="purchase_records">Subscription Records</string>
+    <string name="redemption_record">Redemption Records</string>
+    <string name="total_payout">Amount</string>
+    <string name="net_income">Net Income</string>
+    <string name="not_trading">Not Traded</string>
+    <string name="explain_failure">Subscription Failure</string>
+    <string name="redemption_success">Success</string>
+    <string name="redemption_failure">Redemption Failure</string>
+    <string name="purchase_personal">24-hour USDT Subscription Amount (Individual)</string>
+    <string name="purchase_all">24-hour USDT Subscription Amount (All)</string>
+    <string name="redemption_personal">24-hour USDT Redemption Amount (Individual)</string>
+    <string name="redemption_all">24-hour USDT Redemption Amount (All)</string>
+    <string name="purchase_rate">fee</string>
+    <string name="redemption_rate">fee</string>
+    <string name="manager_num">%1$s Per Day</string>
+    <string name="leverage_tokens">Leveraged Token</string>
+    <string name="warehouse_record">Rebalancing History</string>
+    <string name="investment_target">Investment Targets</string>
+    <string name="leverage">Leverage</string>
+    <string name="initial">Initial Net Value</string>
+    <string name="quantity_subscribed">Subscription Amount</string>
+    <string name="basket">Basket</string>
+    <string name="multiple">%s ×</string>
+    <string name="basket_before">Basket (Before Rebalancing)</string>
+    <string name="basket_after">Basket(After Rebalancing)</string>
+    <string name="warehouse_ratio">Leverage (Before/After Rebalancing)</string>
+    <string name="temp_warehouse">Temporary Rebalancing</string>
+    <string name="timing_warehouse">Regular Rebalancing</string>
+
+    <string name="jingzhi_tip">Net value = Net value at the last adjustment time [1±{mark} (the latest transaction price of underlying assets - the price of that at last adjustment time)/The price of  underlying assets at adjustment time*100%]</string>
+
+    <string name="share">Share</string>
+    <string name="pause_trade">Suspended</string>
+    <string name="threeth">3rd Anniversary</string>
+
+    <string name="unverified">Not Verified</string>
+    <string name="auth_name1">LV1 %s</string>
+    <string name="auth_name2">LV2 %s</string>
+    <string name="fait_trade_permissions">Add Fiat Trading Permission</string>
+    <string name="to_auth">Verify Now</string>
+    <string name="fail_reason">Cause of Failures:%s</string>
+    <string name="re_auth">Re-verify</string>
+    <string name="encryption_currency">Cryptocurrency</string>
+    <string name="otc_shop_permissions">Add Verification of Merchant Permission</string>
+    <string name="personal_auth">Personal Verification</string>
+    <string name="you_limit">Current Amount Limit</string>
+    <string name="unlimited">No Limit</string>
+    <string name="limit_usd">%s USD/Day</string>
+    <string name="limit_usd2">%s USDT/Day</string>
+    <string name="ban_trading">Prohibit Transactions</string>
+    <string name="calendar">Timetable</string>
+    <string name="today">Today</string>
+    <string name="day1">Mon.</string>
+    <string name="day2">Tue.</string>
+    <string name="day3">Wed.</string>
+    <string name="day4">Thur.</string>
+    <string name="day5">Fri.</string>
+    <string name="day6">Sat.</string>
+    <string name="day7">Sun.</string>
+    <string name="act">Event</string>
+    <string name="week1">Mon.</string>
+    <string name="week2">Tue.</string>
+    <string name="week3">Wed.</string>
+    <string name="week4">Thur.</string>
+    <string name="week5">Fri.</string>
+    <string name="week6">Sat.</string>
+    <string name="week7">Sun.</string>
+    <string name="no_agenda">No Schedule Yet</string>
+
+    <string name="u_contract">USD-M</string>
+    <string name="b_contract">Coin-M</string>
+    <string name="brise_tip">To ensure transfer success, please don‘t use batch transfers or non-standard methods</string>
+    <string name="jump">Skip</string>
+    <string name="no_notice">Don‘t remind</string>
+    <string name="click_set_pattern">Click to set unlock gesture</string>
+    <string name="wr_tip">Please select the chain name before obtaining the recharge address</string>
+    <string name="select_chain_name">Please select the chain name</string>
+    <string name="select_chain">Select the chain name</string>
+    <string name="select_chain_tip">Please make sure that the top-up chain name you choose matches the chain name you chose when withdrawing the coin, otherwise it may cause asset loss.</string>
+    <string name="balance">Balance:</string>
+    <string name="limit_sell">Sell now</string>
+    <string name="tx_fee">Withdrawal fee</string>
+    <string name="tx_fee_content">Selling digital currency through XT.com, the platform will charge withdrawal fee</string>
+    <string name="i_know">I understand</string>
+    <string name="between">Orders for your selected payment type must be between 50 %1$s and 30000 %2$s</string>
+    <string name="less_assert">Convert Small Balance to XT</string>
+    <string name="xt_valuation">XT valuation</string>
+    <string name="all_select">Select all</string>
+    <string name="had_selected">Selected</string>
+    <string name="exchange">Convert</string>
+    <string name="expect_exchange">Expected Conversion</string>
+    <string name="exchange_record">Conversion history</string>
+    <string name="exchange_detail">Conversion details</string>
+    <string name="sure_exchange">Confirm</string>
+    <string name="exchange_tip">The actual Conversion is subject to market conditions</string>
+    <string name="you_will_get">You will get</string>
+    <string name="assets_total">Total assets</string>
+    <string name="exchange_fee">Transaction fee</string>
+    <string name="little_asset_tip">Assets with a BTC valuation less than %s BTC are small assets</string>
+    <string name="fee">fee:</string>
+    <string name="have_select_coin">%s Currencies Selected</string>
+    <string name="un_selected_coin_tip">The valuation of %s‘s remaining assets is too low,and conversion is not supported now.</string>
+
+    <string name="advcash_detail1">You will now leave XT and be taken to Advcash.please prepare the required information for KYC verification and payment account,Services relating to payments are provided by Advcash which is a separate platform owned by a third party. Please read and agree to Advcash‘s</string>
+    <string name="advcash_detail2"> Terms and Conditions </string>
+    <string name="advcash_detail3">before using their service. For any questions relating to payments, please contact support@advcash.com. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.</string>
+    <string name="trade_amost_tip">Your limit order price is 5% higher than the latest transaction price. Is the order determined?</string>
+    <string name="trade_amost_tip2">Your limit order price is 5% lower than the latest transaction price. Is the order determined?</string>
+    <string name="cancel_all_entrust">Are you sure you want to revoke all current orders of inquiry?</string>
+    <string name="deal_record">Trades record</string>
+    <string name="hide_revoked_delegate">Hide all canceled</string>
+    <string name="role">Character</string>
+    <string name="order_date">Order date</string>
+    <string name="all_direction">All</string>
+    <string name="unlimite_time">No limit</string>
+    <string name="last7">7 days</string>
+    <string name="last30">30 days</string>
+    <string name="last90">90 days</string>
+    <string name="select_time">Choose time</string>
+    <string name="select_start_time">Start time</string>
+    <string name="select_end_time">End time</string>
+    <string name="cancel_time">Revocation time</string>
+    <string name="complete_time">Completion time</string>
+    <string name="no_max_endtime">The starting time cannot exceed the end time</string>
+    <string name="no_min_starttime">The end time cannot be less than the starting time</string>
+    <string name="otc_t1_tip">In order to protect the safety of assets, the T+1 withdrawal currency restriction will be imposed on the purchased assets</string>
+    <string name="t_1_limit">T+1 withdrawal currency restriction</string>
+    <string name="buy_otc_t_1_tip">When the user purchases the digital currency at XT, the purchased digital currency can only be cashed out after 24 hours of completion of the transaction. During this period of time, the intra-station transactions and transfers are not affected and can be used normally. </string>
+    <string name="raise_otc_num_content">There is a %s USDT equivalent in your account that cannot be cashed out by the T+1 tip, and the remaining assets can be cashed out normally.Check the details</string>
+    <string name="see_detail">Check the details</string>
+    <string name="details">Details</string>
+    <string name="raise_coin_limit">Restrictions on withdrawal</string>
+    <string name="otc_num_popup_content">For the safety of your assets, some of the assets you buy through French currency need to be restricted from withdrawing for 24 hours (from the time of purchase, the amount is %s USDT equivalent), and the restriction will be automatically lifted after 24 hours. The intra-station transactions and transfers are not affected and can be used normally.</string>
+    <string name="xt_trc20_xt_bep20">If you need to deposit the old currency XT (TRC20) and XT (BEP20), please proceed to the website to perform</string>
+
+    <string name="not_low">Above %s</string>
+    <string name="withdraw_enabled">Withdrawal is not open</string>
+    <string name="recharge_enabled">Deposits currently not available</string>
+    <string name="transfer_enabled">Transfer is currently not available</string>
+    <string name="asset_convert_enabled">Redemptions currently not available</string>
+    <string name="total_circulation">Total issuance</string>
+    <string name="subscribe_type">Subscription type</string>
+    <string name="to_snap_up">Subscribe</string>
+    <string name="subscription_model">Subscription model</string>
+    <string name="buy_record">Purchase History</string>
+    <string name="buy_time">Purchase time</string>
+    <string name="buy_money_price">Purchasing price</string>
+    <string name="sub_model_content">Tokens are purchased according to the weight ratio of the amount invested by all users, and the remaining amount will be returned to the user‘s wallet after the amount is successfully deducted</string>
+    <string name="buy_price_colon">Purchase price:</string>
+    <string name="sub_num_colom">Purchase quantity:</string>
+    <string name="min_num">Minimum purchase quantity %1$s%2$s</string>
+    <string name="ieo_subscribe_count_colom">Total Purchase:</string>
+    <string name="input_sub_num">Please enter the purchase quantity</string>
+    <string name="buy_progress">Purchase progress</string>
+    <string name="l_num_buy">Purchase by quantity</string>
+    <string name="l_money_buy">Purchase by amount</string>
+    <string name="input_buy_num">Please enter the purchase quantity</string>
+    <string name="input_buy_money">Please enter the purchase amount</string>
+    <string name="sell_coin_tip">Token selling currently not available</string>
+    <string name="buy_coin_tip">Token buying currently not available</string>
+    <string name="msg_center">Notifications</string>
+    <string name="open_system_nofify">Turn on the notification</string>
+    <string name="let_open">Go to open</string>
+    <string name="look_detail">View more ></string>
+    <string name="otc_detail_tip">The buyer payment is expected to receive within %d minutes.</string>
+    <string name="spot_account_available">Spot account balance:%s</string>
+    <string name="sub_model_content_spot">Tokens are purchased based on the weight ratio of all users. After deduction of the amount, the remaining amount will be returned to the user‘s spot account.</string>
+    <string name="simplex_detail">You will now leave XT and be taken to Simplex. please prepare the required information for KYC verification and payment account， Services relating to payments are provided by Simplex which is a separate platform owned by a third party. Please read and agree to simplex\'s Terms of Use before using their service. For any questions relating to payments, please contact support@simplex.com. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.</string>
+    <string name="simplex_terms_use">Terms of Use</string>
+
+    <string name="xt_super_partner">XT Super Partner</string>
+    <string name="limit_join">Join Now</string>
+    <string name="super_partner_plan">Super Partner Plan</string>
+    <string name="see_rebate_rules">check rebate rules</string>
+    <string name="rebate_ratio">Your rebate ratio</string>
+    <string name="friend_rebate_ratio">Friend‘s rebate ratio</string>
+    <string name="my_invitation_code">My Invitation Code</string>
+    <string name="sponsored_links">Share Link</string>
+    <string name="copy_url_recommend">Copy recommended link</string>
+
+    <string name="obtain_detail">Friends who register will generate handling fee which is your rebate</string>
+    <string name="all_time">All time</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="total_assert_feedback">Total rebate</string>
+    <string name="my_rebate">My rebate</string>
+    <string name="total_invite_num">invitation amount</string>
+    <string name="revenue_commission_details">total rebate details</string>
+    <string name="my_rebate_details">My rebate details</string>
+    <string name="my_invited_users">My partners</string>
+    <string name="super_partner_list">Partner ranking ></string>
+    <string name="promotion_data">promotion data overview</string>
+    <string name="commission_percentage">My rebate ratio：</string>
+    <string name="commission_amount">Rebate amount（USDT）:</string>
+    <string name="commission_amount2">Rebate amount（USDT）:</string>
+    <string name="trade_time">Transaction time：</string>
+    <string name="be_inviter_id">Invited userID：</string>
+    <string name="registration_time">User registration time：</string>
+    <string name="commission_ratio">Friends rebate ratio：</string>
+    <string name="commission">rebate</string>
+    <string name="commission_rate">rebate ratio settings</string>
+    <string name="adjust_commission_rate">Your rebate ratio is %s of your friends‘ transaction fee</string>
+    <string name="adjust_seek_rate">Slide the bar below to modify the commission allocation ratio</string>
+    <string name="my_proportion">My ratio：</string>
+    <string name="friend_proportion">Friends ratio：</string>
+    <string name="change_commission_setting"><![CDATA[Change rebate settings >]]></string>
+    <string name="get_40_commission">Enjoy %s rebate</string>
+    <string name="my_friend_commission">You can enjoy %s of your friend‘s transaction fee as a rebate</string>
+    <string name="total_assert_tip">Total rebate accumulated from inviting friends</string>
+    <string name="my_rebate_tip">Your rebate from own trades</string>
+    <string name="invite_num_tip">The number of friends who use your invitation code to complete registration</string>
+    <string name="referral_tip">basic rebate ratio：%1$s \nSuper partner rebate ratio：%2$s</string>
+    <string name="invited_user_name">Invite user:%s</string>
+    <string name="vip_fee">VIP rate</string>
+    <string name="trade_num_30_usdt">30 days trading volume (equivalent to USDT)</string>
+    <string name="maker_taker">Maker/Taker(%)</string>
+    <string name="xt24_has_pos">XT24 hour average holding volume</string>
+    <string name="vip_info">You are currently a %1$s user, to upgrade to %2$s, reach minimum %3$sUSDT for 30days trade volume(equivalent USDT), and the 24hours average holdings reach minimum %4$sXT.</string>
+    <string name="trade_fee">Latest trading fee</string>
+    <string name="maker_fee">Maker handling fee discount:</string>
+    <string name="taker_fee">Taker handling fee discount:</string>
+    <string name="super_title2_tip">The data overview is updated in real time, there may be calculation errors and calculation delays. The following data is for reference only. Thank you for your understanding and sorry for any inconvenience caused.</string>
+    <string name="login_to_fee">Please login to view your personalised rate.</string>
+    <string name="fee_login">login</string>
+    <string name="and_or">and/or</string>
+    <string name="and">and</string>
+    <string name="_2_00_utc_0_30_usdt_xt24_vip_30">Every day 2:00(UTC) will automatically calculate the transaction volume for the past 30days (equivalent USDT) and XT24 hours average holdings, update user VIP status and rate. After the update, you can enjoy the corresponding rate in the above rate table according to your new status and maintain it for 30 days.</string>
+    <string name="rules_commission">Commission rebate rules</string>
+    <string name="rules_commission_text">1. For every new user who is invited to register XT, you can earn the user‘s handling fee rebate when trading in the XT spot (margin) market;\n2. The invitee can share the rebate he received to the person he has invited, details as follows:\n 1) The rebate ratio of basic partners is %1$s of the invitee‘s transaction fee;\n super partners can enjoy higher the "rebate ratio" from the invited person”;\n 2) You can adjust the commission ratio when you invite your friends to register and send the registration link or invitation code to your friends for registration; the invited person must use the exclusive link and invitation code to enjoy the corresponding rebate proportion. There is no limit to the number of friends invited;\n 3) The modification of the rebate distribution rules is only valid for unregistered users.The registered users still receive the rebate in accordance with the distribution rules set at the time of registration. The modification will not affect the registered users;\n 3.Rebate calculation：Rebate amount=The invited user‘s transaction amount*the user‘s handling rate*your rebate ratio;\n Your rebate amount=rebate amount*your rebate ratio;\n Rebate obtained by the invited person=Rebate amount*the invited person rebate ratio;\n The rebate amount is converted to USDT according to the buying price of the currency at the transaction time, it is calculated and distributed to the spot account of the invitee and the invited user in real-time;\n 4.Rebate example:\n For example, if you are a basic partner, you can enjoy 40%% of the invited transaction fee; the invited person transaction amount handling fee is 1USDT;\n You set 70%% of the rebate to be your rebate, and the remaining 30%% rebate to be used as a transaction rebate for the invited user; the highest rebate you can get is all the rebate;\n Total rebate amount=1(USDT)*40%%=0.4(USDT)\n Your rebate=0.4(USDT)*70%%=0.28(USDT)\n the invited person‘s rebate=0.4(USDT)*30%%=0.12(USDT)\n You can earn an invitation reward of 0.28 (USDT) without making a transaction;\n 5. If you agree with the brand concept of the XT platform and have a firm belief in the blockchain industry, believing that the blockchain can make the world better, you can also apply to become a super partner, and you can enjoy a higher rebate ratio for the invited person, 0 cost to get rich, and be a partner of XT;\n 6. handling fee for deposit and withdrawal, margin interest does not participate in the handling fee rebate;\n 7. If the invited person violates the corresponding risk control rules for invitation rebate, the invited person‘s rebate and the person who sent the  invitation will be cancelled;\n XT reserves the right of final decision on the interpretation of this activity</string>
+    <string name="invite_commission">Invitation to rebate</string>
+    <string name="index_abstract">Index overview</string>
+    <string name="ingredients">Target amount</string>
+    <string name="position_distribution">Holding Position</string>
+    <string name="etf_index">ETF index</string>
+    <string name="index_from">Source of Index: composite index</string>
+    <string name="one_mins">1 minute</string>
+    <string name="four_mins">4 hours</string>
+    <string name="one_days">1 day</string>
+    <string name="index">Index</string>
+    <string name="last_networth">Net value</string>
+    <string name="contract_start_no_end_time">Starting time cannot be later than ending time</string>
+    <string name="contract_end_no_start_time">The ending time cannot be earlier than the starting time</string>
+    <string name="most_six_data">Query up to 6 months of data</string>
+    <string name="scope_applications">Subscription range</string>
+    <string name="redeem_scope">Redemption range</string>
+    <string name="part">Piece</string>
+    <string name="composition">Components</string>
+    <string name="accounted_for">Proportion</string>
+    <string name="index_market">Index Market</string>
+    <string name="redeem_money">Amount</string>
+    <string name="pause_otc_trade">XT.COM will gradually stop supporting CNY fiat currency trading and will be fully upgraded to support other fiat currency transactions in future. Beware of new types of fraud.\n\nPlease do not believe any calls, text messages and mail that guide you to transfer to other platforms. Do not click on the links from strange text messages and mails.</string>
+
+    <string name="modify_safe_pwd_forbidden">I acknowledge that withdrawals and fiat currency sales are prohibited within 24 hours</string>
+    <string name="reset_safe_pwd_forbidden">I acknowledge that withdrawals and fiat currency sales are prohibited within 24 hours after resetting the security password</string>
+    <string name="reset_pwd_forbidden_for_login">I acknowledge that after changing the login password, I will be logged out of the account. I need to use the new password to log in again, withdrawals and fiat currency sales are prohibited within 24 hours</string>
+    <string name="reset_pwd_forbidden">I acknowledge that withdrawals and fiat currency sales are prohibited within 24 hours after resetting the login password</string>
+    <string name="modify_phone_forbidden">I acknowledge that the withdrawal and sale of fiat currency are prohibited within 24 hours after changing the mobile phone number</string>
+    <string name="reset_phone_forbidden">I acknowledge that withdrawals and fiat currency sales are prohibited within 24 hours after resetting the phone number</string>
+    <string name="close_google_forbidden">I acknowledge that withdrawals and fiat currency sales are prohibited within 24 hours after closing Google authentication</string>
+    <string name="reset_google_forbidden">I acknowledge that the withdrawal and sale of fiat currency are prohibited within 24 hours after resetting the Google authentication.</string>
+    <string name="modify_google_forbidden">I acknowledge that the withdrawal and sale of fiat currency are prohibited within 24 hours after modifying the Google certification.</string>
+    <string name="safe_lever_low_tip">Your current security level is low, in order to ensure the security of your account and transactions,you are encouraged to bind at least one more verification method.</string>
+    <string name="google_reset">Google Verification(Recommended)</string>
+    <string name="no_open">Currently not activated</string>
+    <string name="phone_verify">Phone verification</string>
+    <string name="google_cert">Google Verification</string>
+    <string name="google_cert_tip">Google Authenticator is a dynamic password tool that works like SMS dynamic verification. After binding, a dynamic verification code is generated every 30Seconds, and the verification code can be used for security verification of login, currency withdrawal and other operations.</string>
+    <string name="install_next">installed, next step </string>
+    <string name="no_google_down">Don‘t have Google Captcha installed? click to download</string>
+    <string name="click_download">click to download</string>
+    <string name="go_web_re_approve">Please go to XT.com to re-complete the enterprise authentication</string>
+    <string name="com_approve">Enterprise authentication</string>
+    <string name="add_com_permissions">Increase enterprise authentication authority</string>
+    <string name="failure_audit">Reasons for failing the audit:</string>
+    <string name="screct_key">Private key:%s</string>
+    <string name="edit_2_6_google">2. Use Google Authenticator to scan the QR code below or enter the key to get a 6-digit Google verification code, and fill in the input box below</string>
+    <string name="new_screct_key">New Private Key：%s</string>
+    <string name="down_install_validator">1.Download and install Google Authenticator</string>
+    <string name="before_open_google">In order to ensure the security of your account and transactions, it is recommended to turn on Google Verification before continuing to use other services</string>
+    <string name="identity_auth">Identity Verification</string>
+    <string name="index_name">Index</string>
+    <string name="outer_trade">OTC</string>
+    <string name="open_position">open</string>
+    <string name="index_price">index price</string>
+    <string name="check_full_stop">TP/SL Order</string>
+    <string name="check_full_stop1">Stop-limit</string>
+    <string name="check_full_stop_value">TP/SL Order(%s)</string>
+    <string name="margin">Margin</string>ƒ
+    <string name="have_pos">hold a position</string>
+    <string name="show_all">show all</string>
+    <string name="key_to_positions">instant close</string>
+    <string name="hold_pos_num">Size (Cont)</string>
+    <string name="hold_pos_price">Ava Price</string>
+    <string name="can_close_num">Avail(Cont)</string>
+    <string name="auto_add_margin">auto-margin addition</string>
+    <string name="adjust_leverage">adjust leverag</string>
+    <string name="adjust_leverage2">lever</string>
+    <string name="lightning_close_pos">flash close</string>
+    <string name="contract_info">Symbols info</string>
+    <string name="preferences">setting preferences</string>
+    <string name="contract_fee">Symbols fee</string>
+    <string name="billboard">ranking board</string>
+    <string name="calculator">calculator</string>
+    <string name="expect_pos">Est.Liq Price</string>
+    <string name="stop_price">SL price</string>
+    <string name="entrust_price">Buying price</string>
+    <string name="contract_entrust_num">Amount (Cont)</string>
+    <string name="turnover_num">Filled Qty</string>
+    <string name="check_price">TP price</string>
+    <string name="occupancy_deposit">Margin</string>
+    <string name="unit_change">unit change</string>
+    <string name="stop_tip">Reminder to stop limit</string>
+    <string name="stop_tip_content">Tips:When setting stop-limit order(s),the assets will not be frozen before it is successfully triggered.The stop-limit order may fail to trigger due to large market fluctuation.When triggered,the stop-limit order will be filled at the best market price.There may be deveation between the trade price and setting price.</string>
+    <string name="reduce_stock_content">This indicator shows your position in the auto-reduction queue, if all indicators are on, your position may be reduced after a liquidation event</string>
+    <string name="auto_reduce_stock">Automatic reduce stock</string>
+    <string name="popup_maker">Liquidity provider rate (Maker)</string>
+    <string name="popup_taker">liquidity taker rate(Taker)</string>
+    <string name="cur_pos_margin">Current margin position</string>
+    <string name="max_can_add">Max add on</string>
+    <string name="expect_strong_parity">Estimated liquidation price</string>
+    <string name="open_auto_add_margin">open auto margin call</string>
+    <string name="auto_add_margin_tip">when your isolated position is about to be forcibly reduced or liquidated, the net asset balance in the wallet will be automatically transferred to the position margin. Are you sure you want to enable the automatic margin call function?</string>
+    <string name="add_margin_content">Note: This will reduce the probability of you being liquidated, but in extreme cases it may result in the loss of all assets in your contract account.</string>
+    <string name="not_prompt">dont prompt again</string>
+    <string name="add_store_only">Isolated</string>
+    <string name="lever_adjust_page_tip">Note: In order to control the risk, the margin will not be automatically reduced after increasing the leverage, and the user is required to manually reduce the margin</string>
+    <string name="stop_setting">Take profit setting</string>
+    <string name="stop_get_set">stop loss setting</string>
+    <string name="top_get_price">TP trigger price</string>
+    <string name="stop_lost_set">stop loss setting</string>
+    <string name="stop_loss_price">SL trigger price</string>
+    <string name="loss">Loss amount</string>
+    <string name="input_piece">Please input Cont of pieces</string>
+    <string name="max_num_have_value">Max Cont.: %dCont</string>
+    <string name="set_stop_tip">Reminder: When setting the take profit and stop loss, the position will not be frozen until it is successfully triggered. Take profit and stop loss, the order may fail due to severe market fluctuations, system problems, etc. After the take profit and stop loss are successfully triggered, the transaction will be quickly executed at the optimal market price, and the price after the transaction may deviate from the set price</string>
+    <string name="contract_des">Symbols name</string>
+    <string name="cur_price">current price</string>
+    <string name="input_close_pos_price">Please enter closing price</string>
+    <string name="profit_loss_account">PNL</string>
+    <string name="target_price_calculation">Target price calculation</string>
+    <string name="strong_flat_calculation">liquidtation calculation</string>
+    <string name="close_price">closing price</string>
+    <string name="calculation_results">calculation result</string>
+    <string name="forehead">revenue</string>
+    <string name="yield_unit">Yield rate(%)</string>
+    <string name="profit_loss_tip">Calculation results are for reference only. In actual case, there may be deviations in the calculation results due to handling fee and funding.</string>
+    <string name="target_price">target price</string>
+    <string name="second_confirm">Order confirmation</string>
+    <string name="coin">coin</string>
+    <string name="pos_his">position history</string>
+    <string name="contract_open_tip">Symbols open reminder</string>
+    <string name="no_open_contract">not cureently open</string>
+    <string name="open_contract">open Symbols</string>
+    <string name="open_contract_content">Dear XTers, you have not yet activated the XT perpetual contract. After the activation, you can perform XT perpetual Symbols related operations!</string>
+    <string name="deal_detail">details</string>
+    <string name="entrust_order_price">order price</string>
+    <string name="close_pos_profit_loss">PNL of closing</string>
+    <string name="deal_price">deal price</string>
+    <string name="close_pos_num">number of closing position</string>
+    <string name="actual_deal">deal</string>
+    <string name="profit_loss">take profit/Stop loss</string>
+    <string name="contract_target_price">Target price</string>
+    <string name="clearing_time">ending time</string>
+    <string name="starting_time">starting time</string>
+    <string name="delivery">delivery</string>
+    <string name="check_full_price">TP price</string>
+    <string name="keep_loss_price">SL price</string>
+    <string name="buy_in_open_more">Buy/Long</string>
+    <string name="sell_out_open_empty">Sell/Short</string>
+    <string name="buy_in_flat_empty">Buy/Short</string>
+    <string name="sell_out_flat_more">Sell/Long</string>
+    <string name="can_flat_empty">to short</string>
+    <string name="can_flat_more">to long</string>
+    <string name="competitors_price">competitors</string>
+    <string name="key_to_cancel">click to cancel</string>
+    <string name="more">long</string>
+    <string name="empty">short</string>
+    <string name="fund_rate_tip">The funding to be exchanged between buyer and seller for the next funding period. The premium index is calculated every minute during the funding period (every 8 hours), and the premium index is applied to calculate the funding in a time-weighted average manner.</string>
+    <string name="market_price_entrust">market order</string>
+    <string name="all_contract">all Symbols</string>
+    <string name="limit_price_entrust">limit order</string>
+    <string name="plan_entrust">Order Plan</string>
+    <string name="user_cancle">cancelled</string>
+    <string name="order_fail">order failed</string>
+    <string name="profit_btn">take profit</string>
+    <string name="stop_btn">stop loss</string>
+    <string name="please_input_close_pos_num">Please enter the closing amount</string>
+    <string name="most_reduce">maximum reduce</string>
+    <string name="profit_volume">profit volume</string>
+    <string name="checked_profit">Please check the take profit setting option first</string>
+    <string name="p_input_profit">Please enter the take profit trigger price or profit amount</string>
+    <string name="p_input_loss">Please enter stop loss trigger price or loss amount</string>
+    <string name="show_sell_order">show sell order</string>
+    <string name="show_buy_order">Show buy order</string>
+    <string name="usdt_total_money">Total equity(USDT)</string>
+    <string name="modify_before">before</string>
+    <string name="modify_after">after</string>
+    <string name="actual_margin_rate">initial margin rate</string>
+    <string name="pos_margin">margin position</string>
+    <string name="reduce_margin">Margin setting</string>
+    <string name="more_pos">long position</string>
+    <string name="empty_pos">clear position</string>
+    <string name="last_price">price</string>
+    <string name="part_canceled"> Partial cancel</string>
+    <string name="buyin_close_empty">buy to long</string>
+    <string name="sellout_close_more">short to close</string>
+    <string name="triggering">trigerring</string>
+    <string name="not_triggered">not triggered</string>
+    <string name="triggered">triggered</string>
+    <string name="user_revocation">user revocation</string>
+    <string name="platform_revocation">rejected</string>
+    <string name="search_contract">search Symbols</string>
+    <string name="rate_24h">24H change</string>
+    <string name="contract_usdt">USDT Symbols</string>
+    <string-array name="contract_deal_type">
+        <item>Limit Order</item>
+        <item>Scheduled delegation</item>
+        <item>Maker only</item>
+        <item>FOK</item>
+        <item>IOC</item>
+    </string-array>
+    <string name="u_contract_only">USD-M</string>
+    <string name="b_contract_only">Coin-M</string>
+    <string name="wallet_balance">Wallet balance</string>
+    <string name="account_rights">Account Equity</string>
+    <string name="usbl_mr">Free margin</string>
+    <string name="open_success">opened successfully</string>
+    <string name="money_flowing_water">Capital flow</string>
+    <string name="all_coin_name">All cryptos</string>
+    <string name="all_type">All types</string>
+    <string name="pos_get">Position takeover</string>
+    <string name="strong_flat_liquidation">Liquidation</string>
+    <string name="pos_merge">Position consolidation</string>
+    <string name="balance_and_profit">Wallet balance + unrealized PNL</string>
+    <string name="index_price_intro">Weighted average price obtained from mainstream spot exchanges.</string>
+    <string name="set_price_intro">Current market marked price based on index price and funding.</string>
+    <string name="lbl_sign_price">mark</string>
+    <string name="lbl_new_price">latest</string>
+    <string name="more_hold">long position</string>
+    <string name="less_hold">short position</string>
+    <string name="toast_price_max_error">Price cannot be higher than %s %s</string>
+    <string name="toast_price_min_error">Price cannot be lower than %s %s</string>
+    <string name="toast_num_section">The quantity cannot be lower than %s %s, and cannot be higher than %s %s</string>
+    <string name="toast_num_not_high_error">Quantity cannot be higher than %s %s</string>
+    <string name="taker_over_price">Price Acquisition</string>
+    <string name="taker_over_money">Amount Acquisition</string>
+    <string name="u_test">USD-M(Demo)</string>
+    <string name="understand_more">For more information</string>
+    <string name="risk_warning">risk warning</string>
+    <string name="business_page">Business homepage</string>
+    <string name="security_deposit_paid">Security deposit paid</string>
+    <string name="average_release_time">average release time</string>
+    <string name="appeal_volume">Appeals/Received Appeals</string>
+    <string name="wins_volume">Wins/Losses</string>
+    <string name="ta_buy">buy from TA</string>
+    <string name="ta_sell">sell to TA</string>
+</resources>
