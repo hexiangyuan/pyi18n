@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  XT
+
+  Created by xt on 2022/1/6.
+  Copyright © 2022 邓. All rights reserved.
+*/
+
+{
+    "NSCameraUsageDescription" = "A camera is required to shoot real-name authentication videos or scan codes";
+    "NSFaceIDUsageDescription" = "Face ID is required for automatic login";
+    "NSMicrophoneUsageDescription" = "A microphone is required to shoot real-name authentication videos or voice chats";
+    "NSPhotoLibraryAddUsageDescription" = "To save posters or screenshots requires access to the album";
+    "NSPhotoLibraryUsageDescription" = "Uploading a QR code or real-name authentication image requires access to the photo album";
+}

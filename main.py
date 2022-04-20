@@ -4,7 +4,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import xml.sax
 
-openpyxlimport 
+import openpyxl
 
 
 def write_excel_xlsx(path, sheet_name, value):
