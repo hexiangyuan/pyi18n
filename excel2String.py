@@ -16,14 +16,14 @@ def writeToXml(values):
             eString.appendChild(doc.createTextNode(value))
         resources.appendChild(eString)
 
-    filename = "string-ru.xml"
+    filename = "string-tr.xml"
     f = open(filename, "w")
     f.write(doc.toprettyxml())
     f.close()
 
 
 def readExcel():
-    workbook = openpyxl.load_workbook("app-ru.xlsx")
+    workbook = openpyxl.load_workbook("XT APP Android TR.xlsx")
     sheet = workbook["Andriod"]
     key = "A2:C" + str(sheet.max_row)
     cell = sheet[key]
