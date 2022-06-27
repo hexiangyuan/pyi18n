@@ -430,6 +430,7 @@
 "记录" = "Catatan";
 "充值地址和备注同时正确填写才能充值#coinName#到XT，遗漏备注将导致资金丢失。" = "Jumlah pinjaman tidak boleh. Alamat setoran dan komentar harus diisi dengan benar untuk menyetor #coinName# ke XT. Komentar yang hilang akan mengakibatkan hilangnya dana.";
 "知道了" = "Oke";
+"我知道了" = "Oke";
 "搜索币种" = "Penelusuran mata uang";
 "币种选择" = "Koin";
 "账单" = "Catatan";
@@ -862,8 +863,11 @@
 "快捷交易" = "transaksi cepat";
 "0手续费购买" = "Beli (Tanpa Biaya)";
 "0手续费出售" = "Jual (tanpa biaya)";
-"行情数据" = "Data pasar";
-"账户数据" = "Data Akun";
+//"行情数据" = "Data pasar";
+//"账户数据" = "Data Akun";
+"行情数据" = "Market Data";
+"账户数据" = "Account Data";
+"合约数据" = "Futures Data";
 "线路" = "Garis";
 "访问正常" = "Akses biasa";
 "无法访问" = "Tidak dapat diakses";
@@ -1421,6 +1425,7 @@
 "三周年" = "Ulang Tahun ke-3";
 "暂停交易" = "Penghentian Perdagangan";
 "全球首家社交化交易平台" = "Bursa Sosial Pertama di Dunia";
+"系统升级中" = "Peningkatan sistem";
 
 "日程表" = "Jadwal";
 "今天" = "Hari ini";
@@ -1734,10 +1739,10 @@
 "已过期" ="Kedaluwarsa";
 "止盈" ="Take profit";
 "止损" ="Stop loss";
-"买入开多" ="Beli long";
 "买入平空" ="Beli short";
+"买入/平空" ="Beli/short";
 "卖出平多" ="Jual long";
-"卖出开空" ="Jual short";
+"卖出/平多" ="Jual/long";
 "最新价格" ="Harga terakhir";
 "多仓" ="Posisi long";
 "空仓" ="Posisi short";
@@ -1802,6 +1807,7 @@
 "计算结果仅供参考。实际操作中可能会因为手续费，资金费率导致计算结果存在偏差" ="Hasil perhitungan hanya untuk referensi.";
 
 "合约开通提醒" ="Pengingat Futures Terbuka";
+"尊敬的XT用户，欢迎来到新版币本位永续合约，立刻开启模拟交易吧！" = "Pengguna XT yang terhormat, selamat datang di versi baru kontrak abadi Coin-M, mulai simulasi perdagangan sekarang!";
 "尊敬的XT用户，您尚未开通U本位永续合约，开通后可进行U本位永续合约相关操作!" ="Pengguna XT yang terhormat, Anda belum mengaktifkan USD-M Futures, dan Anda dapat melakukan operasi terkait USD-M Futures setelah aktivasi!";
 "暂不开通" ="Saat ini tidak terbuka";
 "开通合约" ="Buka Futures";
@@ -1853,8 +1859,6 @@
 "委托价格" = "Harga pesanan";
 "买入开多" = "Beli Long";
 "卖出开空" = "Jual Short";
-"买入平空" = "beli tutup";
-"卖出平多" = "Jual Tutup Lama";
 "强制平多" = "Pembelian paksa";
 "强制平空" = "Likuidasi paksa";
 "止盈/止损" = "Take profit/Stop loss";
@@ -1877,8 +1881,29 @@
 "成交价格" = "harga kesepakatan";
 "可平多" = "Bisa";
 "万" = "Sepuluh ribu";
+"币本位(模拟)" = "Coin-M(DEMO)";
 
 //////合约新翻译---end
+
+"全部功能" = "Semua Fungsi";
+"管理" = "Pengaturan";
+"自定义功能区" = "Penyesuaian";
+"交易对" = "Trading Pair";
+"价格/24H量" = "Harga/24 Jam";
+"使用银行卡等方式购买USDT或其他数字货币" = "Gunakan kartu cash dll untuk membeli USDT atau kripto koin yang lain";
+"使用VISA或Mastercard等方式购买数字货币" = "Gunakan Visa atau Mastercard dll untuk membeli USDT atau kripto koin yang lain";
+"查看法币交易和第三方支持订单" = "Perlihatkan transaksi flat currency dan order dari pihak ketiga";
+"点击此处，获取更多功能" = "Klik untuk lebih lanjut";
+"扫一扫" = "Pindaikan";
+
+"这里可以进行划转" = "Transfer bisa dilakukan disini";
+"这里可以修改杠杆倍数" = "Leverage dapat dimodifikasi di sini";
+"这里可以切换委托类型" = "Jenis delegasi dapat digantikan di sini";
+"这里可以修改偏好设置" = "Preferensi dapat dimodifikasi di sini";
+"这里可以查看全部合约" = "Semua kontrak dapat dilihat di sini";
+"多仓持仓" = "Posisi long";
+"空仓持仓" = "Posisi short";
+"请输入止盈止损价格" = "Please enter the stop limit price";
 
 "编辑收款方式" = "Edit payment collection method";
 "真实姓名(不可修改)" = "Real name (No edit)";
@@ -1896,3 +1921,44 @@
 "#COUNT#单" = "#COUNT#order";
 "推荐收款方式" = "Recommended deposit method";
 "无可选市场，暂不支持发布广告" = "There is no optional market, and advertising is not supported at the moment";
+"FIO地址" = "Alamat FIO";
+"2到63个字符，支持字母和数字组合" = "2 to 63 characters, supports letter and number combination";
+"注册您的个人FIO充值地址，这样再也不会充值到错误的地址上了" = "Register your personalized FIO address and never deposit into the wrong address again.";
+"手机/邮箱注册" = "Mobile/Email Registration";
+"(首次使用)" = "(First time user)";
+"通过KYC" = "Pass KYC";
+"步骤一" = "Step 1";
+"步骤二" = "Step 2";
+"步骤三" = "Step 3";
+"即将为您跳转至#CHANNELNAME#" = "You will be redirected to #CHANNELNAME#";
+"跳转后您需要完成以下步骤" = "Once you have been redirected, you need to complete the following steps";
+"支付账单" = "make payment";
+"暂不支付中国内地发行的信用卡" = "Temporarily do not support credit cards issued in mainland China";
+"#COUNT#倍做多" = "#COUNT#x Largo";
+"#COUNT#倍做空" = "#COUNT#x Corto";
+
+"请输入您的真实姓名" = "Masukkan nama Anda";
+"出生日期" = "Tanggal lahir";
+"信息确认" = "Konfirmasi info";
+"确认信息" = "Konfirmasi";
+"信息有误，" = "Informasi salah, ";
+"修改信息" = "Edit";
+"拍照" = "Ambil Foto";
+"审核结果" = "Hasil Audit";
+"您会在认证完成后收到一封电子邮件" = "Anda akan menerima email ketika proses autentifikasi Anda telah selesai";
+"返回首页" = "Home";
+"继续高级认证" = "Lanjutkan ke proses autentifikasi senior";
+"将您的文件置于边框内，直到所有4个边缘都对齐。将自动进行拍摄。\n确保所有数据都清晰可读并避免反光。" = "Pastikan semua dokumen Anda dapat terlihat dan tidak melewati batas frame, foto akan diambil secara otomatis. Harap hindari pantulan cahaya dan pastikan semua data dapat terbaca";
+"正确示例" = "Contoh";
+"未剪裁" = "Tidak terpotong";
+"不模糊" = "Tidak kabur";
+"不反光" = "Tanpa pantulan cahaya";
+"继续" = "Lanjutkan";
+"识别成功" = "Diterima";
+"识别失败" = "Rekognisi gagal";
+"重试" = "Coba lagi";
+"请使用您在 Web 浏览器登录的同一账号信息来登录 XT App" = "Harap login ke Applikasi XT memakai akun yang sama dengan yang Anda pakai di browser";
+"当前 iOS 系统版本过低无法使用此功能！请升级 iOS 系统版本到 v11.0 以上或移步到 Web 端进行认证" = "Versi IOS Anda tidak cukup untuk memakai fungsi ini. Harap upgrade IOS ke v11.0 atau lebih atau lakukan autentifikasi dari browser.";
+"未满18岁用户禁止认证" = "Tidak dapat melakukan autentifikasi untuk pengguna di bawah 18 tahun";
+"已超出认证次数，请于#LIMITTIME#重试" = "Jumlah autentifikasi telah dilewati, harap coba lagi dalam waktu #LIMITTIME#";
+"错误的地址链接" = "The page not found";

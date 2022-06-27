@@ -430,6 +430,7 @@
 "记录" = "Hisotrial";
 "充值地址和备注同时正确填写才能充值#coinName#到XT，遗漏备注将导致资金丢失。" = "La dirección y los comentarios del depósito deben ser incluídos de manera correcta si quiere depositar correctamente #coinName# en XT. La falta de comentarios resultará en la pérdida de fondos";
 "知道了" = "OK";
+"我知道了" = "Ok";
 "搜索币种" = "Buscar moneda";
 "币种选择" = "Moneda";
 "账单" = "Historial";
@@ -861,8 +862,11 @@
 "快捷交易" = "Express";
 "0手续费购买" = "Comprar (sin tasas)";
 "0手续费出售" = "Vender (Sin tasas)";
-"行情数据" = "Info del mercado";
-"账户数据" = "Info de la cuenta";
+//"行情数据" = "Info del mercado";
+//"账户数据" = "Info de la cuenta";
+"行情数据" = "Market Data";
+"账户数据" = "Account Data";
+"合约数据" = "Futures Data";
 "线路" = "Line";
 "访问正常" = "Acceso normal";
 "无法访问" = "Acceso fallido";
@@ -1149,6 +1153,7 @@
 
 "说明" = "Nota";
 "法币交易" = "Comercio Fiat";
+"第三方支付" = "Terceros";
 "信用卡买币" = "Tarjeta de crédito / débito";
 "我要买" = "Quiero comprar";
 "我要卖" = "Quiero vender";
@@ -1406,6 +1411,8 @@
 "三周年" = "3er aniversario";
 "暂停交易" = "Detener el trading";
 "全球首家社交化交易平台" = "El primer Exchange social del mundo.";
+"系统升级中" = "Actualización de sistema";
+
 "日程表" = "Calendario";
 "今天" = "Hoy";
 "星期日" = "D";
@@ -1698,10 +1705,10 @@
 "止盈" = "take-profit";
 "止损" = "stop-loss";
 "止盈止损" = "take-profit, stop-loss";
-"买入开多" = "Comprar Largo";
 "买入平空" = "Comprar corto";
+"买入平空" = "Comprar/corto";
 "卖出平多" = "Vender Largo";
-"卖出开空" = "Vender corto";
+"卖出/平多" = "Vender/Largo";
 "最新价格" = "Ultimo precio";
 "多仓" = "posición larga";
 "空仓" = "posición clara";
@@ -1763,6 +1770,7 @@
 "计算结果" = "resultado del cálculo";
 "收益额" = "ingresos";
 "计算结果仅供参考。实际操作中可能会因为手续费，资金费率导致计算结果存在偏差" = "Los resultados del cálculo son solo para referencia. En caso real, puede haber desviaciones en los resultados debido a las tasas de gestión y las tasas de financiamiento.";
+
 
 "合约开通提醒" = "Recordatorio de contrato abierto";
 "尊敬的XT用户，您尚未开通U本位永续合约，开通后可进行U本位永续合约相关操作!" = "Dear XTers, you have not yet activated the XT perpetual contract. After the activation, you can perform XT perpetual Symbols related operations!";
@@ -1826,6 +1834,7 @@
 "数量不能低于%s %s" = "La cantidad no puede ser inferior a %@ %@";
 
 "尊敬的XT用户，欢迎来到新版U本位永续合约，立刻开启模拟交易吧！" = "Damos la bienvenida a los usuarios de XT. Bienvenidos ala nueva versión de Futuros USD-M. !!Comience ahora a usar el servicio de trading simulado!!";
+"尊敬的XT用户，欢迎来到新版U本位永续合约，立刻开启模拟交易吧！" = "Damos la bienvenida a los usuarios de XT. Bienvenidos ala nueva versión de Futuros Coin-M. !!Comience ahora a usar el servicio de trading simulado!";
 
 "委托价格" = "Precio de la orden";
 "U本位(新)" = "USD-M(NEW)";
@@ -1837,6 +1846,29 @@
 "最新" = "Más reciente";
 "成交价格" = "precio de oferta";
 "可平多" = "Ir a largo";
+"币本位(模拟)" = "Coin-M(Simulated)";
+"请输入止盈止损价格" = "Please enter the stop limit price";
+
+//////合约新翻译---end
+
+"全部功能" = "Todas las opciones";
+"管理" = "Gestionar";
+"自定义功能区" = "Lazo personalizable";
+"交易对" = "Pares de trading";
+"价格/24H量" = "Precio 24h/Volumen";
+"使用银行卡等方式购买USDT或其他数字货币" = "Use tarjeta bancaria, etc para comprar USDT o cualquier otra moneda digital";
+"使用VISA或Mastercard等方式购买数字货币" = "Use Visa, Mastercard,etc para comprar monedas digitales";
+"查看法币交易和第三方支持订单" = "Ver transacciones de moneda fiat y órdenes de terceros";
+"点击此处，获取更多功能" = "Haga clic para ver más";
+"扫一扫" = "Escanear";
+
+"这里可以进行划转" = "Las transferencias pueden realizarse aquí";
+"这里可以修改杠杆倍数" = "Modifique el apalancamiento aquí";
+"这里可以切换委托类型" = "Modifique el tipo de delegado aquí";
+"这里可以修改偏好设置" = "Modifique sus preferencias aquí";
+"这里可以查看全部合约" = "Todos los símbolos se pueden ver aquí";
+"多仓持仓" = "posición larga";
+"空仓持仓" = "posición corta";
 
 "编辑收款方式" = "Edit payment collection method";
 "真实姓名(不可修改)" = "Real name (No edit)";
@@ -1854,3 +1886,45 @@
 "#COUNT#单" = "#COUNT#order";
 "推荐收款方式" = "Recommended deposit method";
 "无可选市场，暂不支持发布广告" = "There is no optional market, and advertising is not supported at the moment";
+
+"手机/邮箱注册" = "Registro móvil / correo electrónico";
+"(首次使用)" = "(usuario nuevo)";
+"通过KYC" = "Pase KYC";
+"步骤一" = "Paso 1";
+"步骤二" = "Paso 2";
+"步骤三" = "Paso 3";
+"即将为您跳转至#CHANNELNAME#" = "Serás redirigido a #CHANNELNAME#";
+"跳转后您需要完成以下步骤" = "Una vez que haya sido redirigido, debe completar los siguientes pasos";
+"支付账单" = "hacer el pago";
+"暂不支付中国内地发行的信用卡" = "Temporalmente no admite tarjetas de crédito emitidas en China continental";
+"#COUNT#倍做多" = "#COUNT#x eces más";
+"#COUNT#倍做空" = "#COUNT#x veces corto";
+"FIO地址" = "Dirección de FIO";
+"2到63个字符，支持字母和数字组合" = "2 a 63 caracteres, admite la combinación de letras y números";
+"注册您的个人FIO充值地址，这样再也不会充值到错误的地址上了" = "Registre su dirección FIO personalizada y nunca haga un depósito en la dirección incorrecta.";
+
+"请输入您的真实姓名" = "Por favor ingrese su nombre real";
+"出生日期" = "Fecha de nacimiento";
+"信息确认" = "Confirmación de información";
+"确认信息" = "Confirmar";
+"信息有误，" = "Información incorrecta, ";
+"修改信息" = "Editar";
+"拍照" = "Tomar foto";
+"审核结果" = "Resultados de auditoría";
+"您会在认证完成后收到一封电子邮件" = "Recibirá un correo electrónico cuando se complete la autenticación.";
+"返回首页" = "Casa";
+"继续高级认证" = "Continuar la autenticación senior";
+"将您的文件置于边框内，直到所有4个边缘都对齐。将自动进行拍摄。\n确保所有数据都清晰可读并避免反光。" = "Coloque su documento dentro del marco hasta que los cuatro bordes estén alineados. La foto se tomará automáticamente. Evite los reflejos y asegúrese de que todos los datos sean legibles.";
+"正确示例" = "Ejemplo";
+"未剪裁" = "Sin recortar";
+"不模糊" = "No borroso";
+"不反光" = "Sin reflejos";
+"继续" = "Continuar";
+"识别成功" = "Reconocido";
+"识别失败" = "El reconocimiento falló";
+"重试" = "Intentar otra vez";
+"请使用您在 Web 浏览器登录的同一账号信息来登录 XT App" = "Inicie sesión en la aplicación XT con la misma información de cuenta que inició sesión con su navegador web.";
+"当前 iOS 系统版本过低无法使用此功能！请升级 iOS 系统版本到 v11.0 以上或移步到 Web 端进行认证" = "¡La versión actual de iOS es demasiado antigua para usar esta opción! Actualice la versión de iOS a V11.0 o superior o vaya a la web para completar la autenticación.";
+"未满18岁用户禁止认证" = "La autenticación está prohibida para los usuarios menores de 18 años.";
+"已超出认证次数，请于#LIMITTIME#重试" = "Límite de autenticaciones excedido, intente nuevamente en #LIMITTIME#";
+"错误的地址链接" = "The page not found";

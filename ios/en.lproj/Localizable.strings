@@ -5,7 +5,7 @@
  Created by CM on 2020/7/2.
  Copyright © 2020年 mqt. All rights reserved.
  */
-////
+
 "登录/注册" = "Login/Sign Up";
 "赚佣金" = "Rebate";
 "敬请期待" = "Coming soon";
@@ -334,7 +334,7 @@
 "下单成功" = "Oder placed";
 "姓名" = "Name";
 "昵称" = "Alias";
-"请输入昵称" = "Please enter alias";
+"请输入昵称"= "Please enter alias";
 "电话" = "Phone number";
 "请输入联系电话" = "Please enter phone number";
 "邮箱" = "Email";
@@ -430,6 +430,7 @@
 "记录" = "Record";
 "充值地址和备注同时正确填写才能充值#coinName#到XT，遗漏备注将导致资金丢失。" = "The deposit address and remarks must be filled correctly in order to deposit #coinName# to XT. Missing remarks will result in the loss of funds.";
 "知道了" = "OK";
+"我知道了" = "OK";
 "搜索币种" = "Search currency";
 "币种选择" = "Coin";
 "账单" = "Records";
@@ -441,7 +442,7 @@
 "划转" = "Transfer";
 "交易" = "Trade";
 "取消成功" = "Cancelled";
-"财务记录" = "Finance record";
+"财务记录" = "Finance records";
 "确定取消本次提币吗？" = "Cancel the withdrawal?";
 "继续提币" = "Continue the withdrawal";
 "取消提币" = "Cancel withdrawal";
@@ -539,7 +540,7 @@
 "净资产" = "Net Assets";
 "资产折合" = "Total asset value";
 "隐藏小额币种" = "Hide small currency";
-"实名认证" = "Real-name Verification";
+"实名认证" = "Identify Verification";
 "初级认证" = "Primary authentication";
 "获得充值、提币、法币交易等权限" = "Enable deposit, withdrawal and fiat trading";
 "高级认证" = "Advanced authentication";
@@ -552,11 +553,11 @@
 "注：请务必填写本人的真实信息，实名认证通过后将无法修改，且平台只接受实名本人的账户充值和提现" = "Note: Please be sure to fill in your real information, KYC authentication can not be modified, and the platform only accepts your real-name account’ s deposit and withdrawal";
 "下一步" = "Next";
 "请选择国籍" = "Please select country";
-"请选择证件类型" = "Please select the type of ID";
+"请选择证件类型" = "Please select the type of ID document";
 "请输入姓名" = "Please enter name";
 "请输入证件号码" = "Please enter ID No.";
 "国籍" = "Nationality";
-"证件类型" = "Type of certificate";
+"证件类型" = "Type of ID document";
 "证件号码" = "ID number";
 "上传证件照正面" = "Upload the front of the ID card";
 "上传证件照反面" = "Upload the back of the ID card";
@@ -565,6 +566,7 @@
 "2.拍照时请确保#CARDNAME#边框完整、图像清晰、光线均匀" = "Please ensure that the #CARDNAME# frame is complete, the image is clear, and the light is uniform When taking pictures.";
 "提交审核" = "Submit for review";
 "等待证件正面照上传完成" = "Waiting for the completion of the upload of the front of the ID card";
+
 "请上传证件正面照" = "Please upload the front of the ID card";
 "请重新上传证件正面照" = "Please upload the front of the ID card again";
 "等待证件反面照上传完成" = "Waiting for the completion of the upload of the back of the ID card";
@@ -588,7 +590,7 @@
 "修改" = "Modify";
 "安全中心" = "Security Center";
 "用于提币、修改安全设置、管理API时进行安全验证" = "Used for security authentication when withdrawing, modifying security settings and managing API";
-"需要先绑定邮箱才能修改手机号码" = "You need to bind the email before you can modify the mobile number.";
+"需要先绑定邮箱才能修改手机号码"= "You need to bind the email before you can modify the mobile number.";
 "登录验证设置" = "Login setting";
 "绑定手机" = "Bind the phone";
 "手机验证码" = "Phone Code";
@@ -680,6 +682,7 @@
 "上传中" = "Uploading";
 "上传成功" = "Uploaded";
 "重置" = "Reset";
+
 "首页" = "Home";
 "财务" = "Wallet";
 "新版已发布" = "New Version ";
@@ -689,6 +692,7 @@
 "当前为最新版本" = "The current to the latest version";
 "更新到最新版本" = "Update to the latest version";
 "立即升级" = "Update Now";
+
 "照片访问受限" = "Photo access restricted ";
 "点击“设置”，允许访问您的照片" = "Click \"Settings\" to allow access to your photos";
 "设置" = "Settings";
@@ -697,6 +701,7 @@
 "麦克风访问受限" = "Microphone access restricted";
 "点击“设置”，允许使用您的麦克风" = "Click \"Settings\" to allow access to your microphone";
 "图片上传失败" = "Photo upload failed";
+
 "欢迎登录" = "Welcome";
 "手机号码或邮箱" = "Mobile number/Email";
 "还没有账号?" = "No account?";
@@ -721,7 +726,8 @@
 "重置密码" = "Reset password";
 "完成" = "Done";
 "请立即与客服进行联系" = "Please contact customer service immediately";
-"发送验证码" = "SMS";
+"发送验证码" = "Get code";
+
 "网银" = "E-bank";
 "网银账号" = "Bank account";
 "网银支付" = "E-bank payment";
@@ -730,9 +736,11 @@
 "请输入Paypal" = "Please enter Paypal";
 "添加网银" = "Add E-bank";
 "添加Paypal" = "Add Paypal";
+
 "XT成立于2018年7月，总部位于香港，是一家全球性的数字货币交易服务商。XT拥有顶尖的安全系统和撮合引擎，支持安全快速的OTC场外交易。作为全网第一家推出免息杠杆的交易平台，目前日活跃用户已达到数万人。XT平台手续费全网最低。支持中、英、日、韩等多国语言，服务近百个国家和地区的已超100万全球用户。" = "Founded in July 2018 and headquartered in Hong Kong, XT is a global digital currency trading service provider. XT exchange adopts micro service architecture to develop matching engine and supports secure and fast OTC  transactions. As the first trading platform to launch interest-free leverage, the number of daily active users has reached tens of thousands. The transaction fee of XT is the lowest and it supports Chinese, English, Japanese, Korean and other languages, serving millions of global users in nearly 100 countries and regions.";
 "XT由FIBTC LTD等多家海内外知名企业投资，在日本、新加坡、韩国、西班牙等多个国家及地区均设有运营中心，在ZB的技术支持下，为用户提供最安全、最高效、最专业的数字资产投资服务。" = "Founded by well-known capital fund FIBTC LTD, XT now has operation centers in Japan, Singapore, South Korea, Spain and other countries and regions. With the technical support of ZB, XT provides users with the safest, most efficient and most professional digital asset investment services.";
 "买价值币，只选XT" = "Buy valuable coins on XT";
+
 "填写金额" = "Amount";
 "红包个数" = "Number";
 "填写个数" = "Input Quantity";
@@ -751,6 +759,7 @@
 "拼手气红包" = "Randomly divided coin";
 "普通红包" = "Equally divided coin";
 "已领 #Count# 个" = "#Count# have been collected";
+
 "我的专属推荐方式" = "My Exclusive Referring Method";
 "我的邀请数据" = "Referral Data";
 "如何获得佣金" = "How to obtain commission?";
@@ -802,6 +811,7 @@
 "待奖励" = "Pending rewards";
 "是" = "Yes";
 "否" = "No";
+
 "申购记录" = "Records";
 "现货账户可用" = "Spot account balance";
 "申购数量" = "Purchase quantity";
@@ -832,6 +842,7 @@
 "官网" = "Website";
 "白皮书" = "White Paper";
 "合约" = "Futures";
+
 "欢迎使用XT全新2.0版本，在使用过程中请注意以下事项：" = "Welcome to XT 2.0. Please read the following precautions in detail first before you use the new version:";
 "·2.0版本进一步提升了钱包安全性，因此在充值时请重新获取地址，充值旧地址将无法成功到账；" = "XT 2.0 is equipped with the wallet of higher security, so please get a new address when depositing because the funds deposited through the old address cannot be received successfully.";
 "·2.0版本将钱包账户和现货账户分开展示，您在完成充值之后将资产转入现货账户即可进行币币交易。" = "The wallet account and the spot account are displayed separately in XT 2.0. You can transfer the assets to the spot account and then perform spot trading after completing the depositing.";
@@ -840,17 +851,20 @@
 "转入现货账户" = "transfer the assets to the spot account";
 "系统正在升级维护，请耐心等候..." = "The system is updating, thanks for your patience...";
 "预计完成时间：" = "Estimated Completion Time:";
+
 "请添加收款方式再发布" = "Please add the payment method before publishing";
 "请绑定手机号再发布" = "Please bind your phone number before publishing";
 "前往" = "Go";
 "请先绑定手机号" = "Please bind your phone number first";
 "开户银行" = "Bank";
+
 "自选交易" = "P2P";
 "快捷交易" = "Express";
 "0手续费购买" = "Buy(no fees)";
 "0手续费出售" = "Sell(no fees)";
 "行情数据" = "Market Data";
 "账户数据" = "Account Data";
+"合约数据" = "Futures Data";
 "线路" = "Line";
 "访问正常" = "Access normal";
 "无法访问" = "Unable to access";
@@ -875,10 +889,12 @@
 "分享成功" = "Shared";
 "分享取消" = "Cancel Sharing";
 "分享失败" = "Sharing Failed";
+
 "分享至" = "Share";
 "分享" = "Share";
 "微信好友" = "to WeChat Friends";
 "微信朋友圈" = "on WeChat Moments";
+
 "出售前需要将币划转至法币账户，现在去划转？" = "The coin needs to be transferred to Fiat Account before selling. Go to transfer now?";
 "全部购买" = "Buy All";
 "全部卖出" = "Sell All";
@@ -887,8 +903,10 @@
 "理财账户" = "Finance Account";
 "昨日收益" = "Yesterday's Income";
 "网络异常，点击重试..." = "network anomaly, try again...";
+
 "内部转账" = "Internal transfer";
 "区块转账" = "Blockchain transfer";
+
 "开通合约账户" = "Open Contract Account";
 "重要提示：" = "Important Notice:";
 "合约交易属于高风险交易行为，在带来更多潜在利润的同时，也蕴含着巨大风险。请注意，当市场出现剧烈波动时，您合约钱包中的余额有可能全部亏损。" = "Contract trading is a high-risk investment. While bringing more potential profits, the contract trading also contain huge risks. Please be aware that when the market fluctuates sharply, the balance in your contract wallet may all lose.";
@@ -902,22 +920,28 @@
 "百分比幅度设置" = "Set Percentage";
 "请设置固定幅度" = "Please Set Fixed Range";
 "例如浮动价格保持比最新价格低0.1 CNY则输入-0.1，高0.1 CNY则输入0.1" = "For example, if the floating price is 0.1 CNY lower than the latest price, enter '-0.1'; if the floating price is 0.1 CNY higher than the latest price, enter '0.1'.";
+
 "交易哈希" = "TxHash";
 "DeFi板块" = "DeFi Zone";
 "NFT板块" = "NFT Zone";
 "NFT区" = "NFT Zone";
 "买币" = "Buy";
 "浮动价格必须大于0" = "The floating price must be greater than 0.";
+
 "粘贴" = "Paste";
 "即将开盘" = "Open Soon";
 "开盘时间（#OPENTIME#）" = "Open Time (#OPENTIME#)";
 "区块查询" = "Block Query";
+
+
+// 全币种相关
 "全币种" = "Quanto";
 "U本位合约账户" = "USD-M Futures";
 "币本位合约账户" = "Coin-M Futures";
 "全币种合约" = "Quanto";
 "U本位合约" = "USD-M";
 "币本位合约" = "Coin-M";
+
 "可开多" = "Long Available";
 "可开空" = "Max short";
 "增加保证金" = "Add Margin";
@@ -959,6 +983,7 @@
 "已成交" = "Traded";
 "已过期" = "Expired";
 "请输入张数" = "Please enter the Cont";
+
 "已实现盈亏/手续费" = "Realised P/L or Fees";
 "已实现盈亏" = "Realized P/L";
 "总额" = "Total Amount";
@@ -966,26 +991,32 @@
 "资金划出" = "Transfer Out";
 "普通交易" = "Spot Trading";
 "强制平仓" = "Forced Liq.";
+
 "系统平仓" = "System Liq.";
 "爆仓盈亏划入" = "Liq. P/L Transfer-in";
 "冻结保证金" = "Freeze Margin";
 "解冻结保证金" = "Unfreeze Margin";
 "冻结手续费" = "Freeze Fees";
 "解冻结手续费" = "Unfreeze Fees";
-"标记价格" = "Mark price";
+
 "买入开多" = "Open Long";
 "卖出开空" = "Sell short";
 "价格" = "Price";
+
 "开多" = "Open Long";
 "开空" = "Open Short";
 "平空" = "Close Short";
 "平多" = "Close Long";
+
 "网络超时，请重试" = "Network timeout, please try again.";
 "当前线路不稳定，请尝试切换线路" = "The current line is unstable, please switch lines.";
 "合约体验金" = "Contract Bonus";
 "1.体验金可作为交易保证金使用，不可提现。盈利部分可提现。体验金必须在15天内通过任何一笔交易来激活。以领取当日时间起计算，15天内未被激活则过期作废，一经激活则永久有效；" = "The trial funds can be used as a trading margin and cannot be withdrawn. The profit can be withdrawn. Trial funds must be activated through any transaction within 15 days. The time is calculated from the date of receiving the funds. If not activated within 15 days, the funds will expire and become invalid. Once activated, they will be permanently valid.";
+
 "2.首次划入合约领取体验金，仅有一次领取机会，根据首次划入金额获得对应体验金。首次划入金额标准根据市场情况不定期调整。 首充USDT≥1000可领取5USDT体验金； 累计充值USDT≥1万可领10USDT体验金；" = "There is only one chance to receive the trial funds when your own funds are transferred into the contract account for the first time, and you will get the corresponding trial funds based on the first transferred amount. The standard for trail funds amount is adjusted to market conditions. The first deposit of USDT≥1000, you can receive 5USDT trial funds; the cumulative deposit of USDT≥10,000, you can receive 10USDT trial funds.";
+
 "3.邀请好友上限为10人，超过10人之后不再领取体验金；" = "The maximum number of friends you can invite is 10, and you won’t receive the trial funds after inviting 10 people.";
+
 "4.累计充值体验金领取条件仅限2020年10月23日8:00 (UTC+8)后划入的资金；（以上线时间为准）" = "Only the accumulated deposits after 00:00 on October 23 (UTC+8),2020 can be counted as a condition to receive trial funds. ";
 "5.本次活动支持USDT合约，暂不支持币本位合约，如账户进行合约转出行为，所有体验金会被清空；" = "This event supports USDT contracts, but does not support currency-based contracts temporarily. If the account is transferred out of the currency-based contract, all trial funds will be emptied.";
 "6.合约账户中若包含体验金部分，当前不存在持仓或委托才能进行转出操作；" = "If the contract account contains the trial funds, the transfer-out operation can be available in case there is no position or open orders.";
@@ -1024,7 +1055,9 @@
 "矿池账户" = "Pool Account";
 "永续" = "SWAP";
 "矿池" = "Pool";
+
 "划转之后将清空所有体验金" = "All trial funds will be emptied after the transfer";
+
 "联系买家" = "Contact Buyer";
 "联系卖家" = "Contact Seller";
 "联系卖家电话" = "Seller Mobile";
@@ -1034,6 +1067,7 @@
 "买家姓名" = "Name";
 "买家电话" = "Number";
 "振幅" = "Amplitude";
+
 "XT矿池" = "XT Pool";
 "PoS挖矿" = "PoS Mining";
 "持有余额不足，下单失败。请调整你的下单或划转资产。" = "The insufficient balance fails to place an order. Please adjust your order or transfer assets.";
@@ -1075,6 +1109,7 @@
 "7、 如被邀请人违反邀请返佣的相应风控规则，其手续费将不能返还给邀请人。" = "7. If the invitee violates the corresponding risk control rules of the invitation rebate, the handling fee will not be returned to the inviter.";
 "本活动最终解释权归XT所有" = "XT reserves the right of final decision on the interpretation of this activity.";
 "全新升级，邀请好友\n交易现货、合约，获得高额返佣" = "New Upgrade! Invite friends to join the spot and contract trading and you will win high commission";
+
 "手续费率" = "Fee Rate";
 "您的费率等级为" = "Your level of fee rate is";
 "登录查看您的专属费率" = "Log in to check your fee rate";
@@ -1106,20 +1141,24 @@
 "众筹价格" = "Crowdfunding Price";
 "合约模块正在升级维护，\n请稍后再试..." = "The contract module is under maintenance and upgrade. Please try again later...";
 "充值上币" = "Promote Listing";
+
 "隐藏已取消" = "Hide Canceled Orders";
 "取消中" = "Canceling";
 "部分成交" = "Partially Traded";
 "全部成交" = "All Traded";
+
 "现金券" = "Voucher";
 "失效日期" = "Expiry Date";
 "已失效" = "Expired";
 "去使用" = "To Use";
 "费率折扣" = "Rate Discount";
 "我的券包" = "My Vouchers";
+
 "券面值" = "Voucher Par";
 "失效时间" = "Expiry Date";
 "已享权益" = "You‘ve got";
 "使用规则" = "Usage Rules";
+
 "说明" = "Note";
 "法币交易" = "Fiat Trading";
 "第三方支付" = "Third-party";
@@ -1142,8 +1181,11 @@
 "最小数量" = "Min Cont";
 "最大数量" = "Max Cont";
 "限制已关闭" = "Limits are off";
+
+
 "请确认收币地址是否要求填写备注/Memo，不填或填错将导致资产丢失。其他交易所或钱包也把备注(Memo)叫做Tag、数字ID、标签等。" = "Please confirm whether the Memo is required for the token receiving address. Failure to fill in or incorrect filling will result in loss of assets. Other exchanges or wallets also refer to Memo as Tag, Digital ID, etc.";
 "分享应用" = "Share APP";
+
 "根据市场需求，采用供应及价格稳定机制的AUSCM与其他数字资产不同，进行Rebase" = "Unlike other digital assets, AUSCM adopts a stabilized supply and price mechanism and deploys the rebase according to market demand.";
 "Rebasing进行及日程通知" = "Rebasing progress and schedule";
 "1.代币供应量基准 每24小时/每天 9:50 ~ 10:30 (UTC +8)" = "1. Token supply benchmark every 24 hours/day 9:50 ~ 10:30 (UTC +8)";
@@ -1153,8 +1195,10 @@
 "4. 详细内容请参考AUSCM白皮书页面" = "4.For details, please refer to the AUSCM white paper";
 "在此过程中，因个人拥有的AUSCM代币数量增加或减少的变动性，可能会发生资产损失。" = "During the process, asset losses may occur due to the increase or decrease in the number of AUSCM owned by users.";
 "数字资产价格波动大，另外没有保障价值的主体，不是政府担保的法定货币，请慎重投资。" = "Please keep in mind that the price of digital assets is subject to high volatility. Most digital assets are not backed by any entity of value and still dependent on the value of government-issued fiat currencies. Please make your investment carefully.";
+
 "使用AUSCM代币交易时注意事项" = "Notes of Caution for AUSCM Trading";
 "今日内不再显示" = "Do Not Show Again for Today";
+
 "最大借款数量" = "Maximum Borrowing Limit";
 "利息" = "Interest";
 "总负债" = "Total Liabilities";
@@ -1169,6 +1213,7 @@
 "未上架" = "Unlisted";
 "广告发布后上架" = "Automatically displayed after the ad is posted";
 "请选择收款方式" = "Please select payment method";
+
 "当前广告所选支付方式已不可用，请重新编辑广告，选择支付方式" = "The payment method selected for the ad is no longer available. Please re-edit the ad and select a payment method";
 "重新编辑" =  "Re-edit";
 "请先激活收款方式" = "Please activate the payment method.";
@@ -1183,13 +1228,16 @@
 "最佳选择" = "Best choice";
 "暂无可选支付方式" = "No payment method available";
 "暂无可选支付渠道" = "No payment channel available";
+
 "您即将离开xt.com进入mercuryo，请准备kyc认证资料和付款账户。mercuryo是由第三方独立运营的法定货币与加密货币交易平台，所有相关服务均由mercuryo方提供。请在使用本服务前，仔细阅读并同意mercuryo的《服务条款》。有关交易的任何问题，请发送邮件至support@mercuryo.io联系团队获取帮助。XT对因使用该服务遭受的任何损失或损害不承担任何责任。" = "You are leaving XT.com for Mercuryo, please prepare the required information for KYC verification and payment account. Mercuryo is an internationally compliant fiat-to-crypto gateway solution for exchanges that operated independently by third parties and all related services are provided by Mercuryo. Please read carefully Mercuryo’s Terms of Service and agree to those terms before using the service. If you have any questions about trading, please send email to support@mercuryo.io for support. XT assumes NO responsibility for any direct or indirect losses or damage caused by the service.";
 "服务条款" = "Terms of Service";
+
 "快捷买币" = "Buy Crypto";
 "0手续费，快速入金" = "Easy transfers with no fees";
 "Visa/Mastercard等多种选择" = "Support Visa, Mastercard, and many more.";
 "买&卖" = "Buy & Sell";
 "BABYDOGE每次转账官方智能合约会额外收取10%的费用，并非平台收取，同时为覆盖用户充值收集的归集成本，充值时还需额外收取10%手续费，实际到账数量为充值数量的80%。" = "An additional 10% fee for each transfer will be charged by the official smart contract of BABYDOGE, not by the platform. And another additional 10% service fee for each deposit will be charged to cover the cost accumulation. The actual credited amount of BABYDOGE, therefore, is 80% of the amount deposited.";
+
 "当前网络线路不稳定，是否需要切换到其他线路？" = "The current network line is unstable. Switch to another line?";
 "不需要" = "No, I'm good.";
 "去切换" = "Switch now.";
@@ -1198,6 +1246,7 @@
 "连接超时" = "Connection timed out";
 "操作" = "Operation";
 "加载中" = "Loading";
+
 "投票上币" = "Listing Vote";
 "票数" = "Number of votes";
 "票数: #number#票" = "#number# Votes";
@@ -1329,6 +1378,7 @@
 "点击进行指纹解锁" = "Click for fingerprint unlock";
 "超出Touch ID尝试次数" = "Too many failed Touch ID attempts";
 "无法使用Touch ID" = "Unable to activate Touch ID";
+
 "暂无可用法币" = "No Fiat Currency Available";
 "暂无可用币种" = "No Currency Available";
 "杠杆代币" = "Leveraged Token";
@@ -1375,6 +1425,8 @@
 "三周年" = "3rd Anniversary";
 "暂停交易" = "Trading Halt";
 "全球首家社交化交易平台" = "The World's First Social Infused Exchange";
+"系统升级中" = "System upgrade";
+
 "日程表" = "Timetable";
 "今天" = "Today";
 "星期日" = "Sun.";
@@ -1397,6 +1449,7 @@
 "24小时可用提现额度" = "24-Hr Withdrawal Limit";
 "暂无日程" = "No Schedule Yet";
 "请勿使用批量转账或者非标准方法进行转账， 否则将无法成功到账。" = "To ensure transfer success, please don‘t use batch transfers or non-standard methods.";
+
 "获取充值地址前请先选择链名称" = "Please select the chain name before obtaining the recharge address.";
 "请选择链名称" = "Please select the chain name.";
 "选择链名称" = "Select the chain name";
@@ -1425,6 +1478,7 @@
 "您选择的付款类型的订单必须介于 #MIN# 和 #MAX# 之间" = "Orders for your selected payment type must be between #MIN# and #MAX#";
 "通过XT.com出售数字货币，平台将收取一定的提取费用" = "Selling digital currency through XT.com, the platform will charge withdrawal fee";
 "立即出售" = "Sell now";
+
 "撤销中" = "Canceling";
 "已撤销" = "Canceled";
 "您委托价格高于最新成交价的5%，是否确定下单？" = "Your limit order price is 5% higher than the latest transaction price. Is the order determined?";
@@ -1452,13 +1506,17 @@
 "为了您的资产安全，您有部分通过法币交易买入的资产需要被限制提币24小时（自购买时间起，额度为#FREEZE# USDT等值金额），24小时后将会自动解除限制，冻结期间您的站内交易、划转行为不受影响，可正常使用。" = "For the safety of your assets, some of the assets you buy through French currency need to be restricted from withdrawing for 24 hours (from the time of purchase, the amount is #FREEZE# USDT equivalent), and the restriction will be automatically lifted after 24 hours. The intra-station transactions and transfers are not affected and can be used normally.";
 "卖出委托" = "Sell Orders";
 "买入委托" = "Buy Orders";
+
 "您现在将离开 XT 并前往 Banxa。请准备好KYC验证及支付账户所需资料，支付相关服务由第三方独立平台Banxa提供。在使用他们的服务之前，请阅读并同意 Banxa 的使用条款。有关付款的任何问题，请联系 support@banxa.com。 XT对因使用本支付服务而造成的任何损失或损害不承担任何责任" = "You will now leave XT and be taken to Banxa.  please prepare the required information for KYC verification and payment account，Services relating to payments are provided by Banxa which is a separate platform owned by a third party. Please read and agree to Banxa's Terms of Use before using their service. For any questions relating to payments, please contact support@banxa.com. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.";
 "您现在将离开 XT 并前往 Mercuryo。请准备好KYC验证及支付账户所需资料，支付相关服务由第三方独立平台Mercuro提供。在使用其服务之前，请阅读并同意 Mercuryo 的服务条款。有关付款的任何问题，请联系 support@mercuryo.io。 XT对因使用本支付服务而造成的任何损失或损害不承担任何责任。" = "You will now leave XT and be taken to Mercuryo.  please prepare the required information for KYC verification and payment account，Services relating to payments are provided by Mercuryo which is a separate platform owned by a third party. Please read and agree to Mercuryo's Terms of Service before using their service. For any questions relating to payments, please contact support@mercuryo.io. XT does not assume any responsibility for any loss or damage caused by the use of this payment service。";
 "您现在将离开 XT 并前往Advcash。请准备好KYC验证和支付账户所需的信息，与支付相关的服务由Advcash提供，Advcash是第三方拥有的独立平台。在使用他们的服务之前，请阅读并同意Advcash的《条款和条件》。有关付款的任何问题，请联系 support@advcash.com。 XT对因使用本支付服务而造成的任何损失或损害不承担任何责任" = "You will now leave XT and be taken to Advcash.  please prepare the required information for KYC verification and payment account，Services relating to payments are provided by Advcash which is a separate platform owned by a third party. Please read and agree to Advcash's Terms and Conditions before using their service. For any questions relating to payments, please contact support@advcash.com. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.";
+
 "您现在将离开 XT 并前往 Simplex。请准备好KYC验证及支付账户所需资料，支付相关服务由第三方独立平台Simplex提供。在使用他们的服务之前，请阅读并同意 Simplex 的使用条款。有关付款的任何问题，请联系 support@simplex.com。 XT对因使用本支付服务而造成的任何损失或损害不承担任何责任" = "You will now leave XT and be taken to Simplex. please prepare the required information for KYC verification and payment account， Services relating to payments are provided by Simplex which is a separate platform owned by a third party. Please read and agree to simplex's Terms of Use before using their service. For any questions relating to payments, please contact support@simplex.com. XT does not assume any responsibility for any loss or damage caused by the use of this payment service.";
+
 "条款和条件" = "Terms and Conditions";
 "更新" = "Update";
 "高于#AMOUNT#" = "Above#AMOUNT#";
+
 "充值暂未开放" = "Deposits currently not available";
 "提现暂未开放" = "Withdrawal is not open";
 "划转暂未开放" = "Transfer is currently not available";
@@ -1466,6 +1524,7 @@
 "卖币暂未开放" = "Token selling currently not available";
 "买币暂未开放" = "Token buying currently not available";
 "如需充值旧币XT(TRC20)、XT(ERC20)，请前往网页端操作" = "If you need to deposit the old currency XT (TRC20) and XT (ERC20), please proceed to the website to perform.";
+
 "认购类型" = "Subscription type";
 "抢购" = "Subscribe";
 "申购模式" = "Subscription model";
@@ -1481,6 +1540,7 @@
 "按金额购买" = "Purchase by amount";
 "请输入购买数量" = "Please enter the purchase quantity";
 "请输入购买金额" = "Please enter the purchase amount";
+
 "VIP费率" = "VIP rate";
 "近30天交易量（等值USDT）" = "30 days trading volume (equivalent to USDT)";
 "Maker/Taker（%）" = "Maker/Taker (%)";
@@ -1491,6 +1551,7 @@
 "Taker手续费折扣" = "Taker handling fee discount";
 "请点击 登录 查看您的专属费率" = "Please login to view your personalised rate";
 " 登录 " = "login";
+
 "邀请返佣" = "Invitation to rebate";
 "合伙人排行榜" = "Partner ranking";
 "XT 超级合伙人" = "XT Super Partner";
@@ -1534,6 +1595,7 @@
 "邀请人" = "Invite user";
 "返佣金额" = "Rebate Amount";
 "数据总览为实时更新，可能存在计算误差及计算延迟情况，以下数据仅供参考，给您带来的不便，敬请谅解。" = "The data overview is updated in real time, there may be calculation errors and calculation delays. The following data is for reference only. Thank you for your understanding and sorry for any inconvenience caused.";
+
 "每天2:00（UTC+0）之前自动计算近30天交易量（等值USDT）和XT24小时平均持有量，并更新用户VIP级别和费率。 更新后即可按新的级别享受上述费率表中的对应费率并保持30天不降级。" = "Every day 2:00(UTC) will automatically calculate the transaction volume for the past 30days (equivalent USDT) and XT24 hours average holdings, update user VIP status and rate. After the update, you can enjoy the corresponding rate in the above rate table according to your new status and maintain it for 30 days.";
 "且/或" = "and/or";
 "且" = "and";
@@ -1559,12 +1621,16 @@
 "5、如果您认同XT平台的品牌理念，对区块链行业有坚定的信仰，相信区块链可以让世界变的更好，您还可申请成为超级合伙人，可享被邀请人更高的佣金比例，0成本致富，做XT的合伙人；" = "5. If you agree with the brand concept of the XT platform and have a firm belief in the blockchain industry, believing that the blockchain can make the world better, you can also apply to become a super partner, and you can enjoy a higher rebate ratio for the invited person, 0 cost to get rich, and be a partner of XT;";
 "6、充提币手续费，杠杆利息不参与手续费返佣；" = "6. handling fee for deposit and withdrawal, margin interest does not participate in the handling fee rebate;";
 "7、如被邀请人违反邀请返佣的相应风控规则，则邀请人的返佣以及被邀请人的返现将会被取消；" = "7. If the invited person violates the corresponding risk control rules for invitation rebate, the invited person's rebate and the person who sent the  invitation will be cancelled;";
+
 "通知" = "Notifications";
 "开启系统通知" = "Turn on the notification";
 "去开启" = "Go to open";
 "查看详情" = "View more";
+
 "未登录或者登录失效" = "No login or login failure";
 "XT.COM将逐步停止支持CNY法币交易功能，后续将进行全面升级，以支持其他法币交易。\n\n谨防新型诈骗，请勿相信任何引导您转账到其他平台的电话、短信和邮件。请勿点击陌生短信、邮件中所包含的链接。" = "XT.COM will gradually stop supporting CNY fiat currency trading and will be fully upgraded to support other fiat currency transactions in future. \n\nBeware of new types of fraud. Please do not believe any calls, text messages and mail that guide you to transfer to other platforms. Do not click on the links from strange text messages and mails.";
+
+///合约新翻译---begain
 "流动性提供方费率" = "Liquidity provider rate (Maker)";
 "这一指标显示你持仓在自动减仓队列中的位置，如果所有指示灯亮起，在发生强平事件后，你持仓的仓位可能会被减小" = "This indicator shows your position in the auto-reduction queue, if all indicators are on, your position may be reduced after a liquidation event";
 "强平数量" = "Liq.Amount";
@@ -1621,11 +1687,12 @@
 "止损" = "Stop loss";
 "止盈止损" = "TP/SL Order";
 "U下单止盈止损" = "Stop Limit";
-"买入开多" = "Buy Long";
 "买入平空" = "Buy Short";
+"买入/平空" = "Buy/Short";
 "卖出平多" = "Sell Long";
-"卖出开空" = "Sell Short";
-"最新价格" = "Mark price";
+"卖出/平多" = "Sell/Long";
+"卖出/开空" = "Sell/Short";
+"最新价格" = "Price";
 "多仓" = "Long";
 "空仓" = "Short";
 "修改前" = "Before";
@@ -1652,18 +1719,26 @@
 "止盈价" = "Take profit price";
 "止损价" = "Stop-loss price";
 "止盈止损提醒" = "Reminder to stop limit";
+
 "温馨提示：当设置止盈止损时，在成功触发之前，将不会冻结仓位。止盈止损，可能会因行情波动剧烈，系统问题等而下单失败。止盈止损触发成功后将以最优市价价格快速成交，成交后的价格可能与设置价格存在偏差" = "Tips:When setting stop-limit order(s),the assets will not be frozen before it is successfully triggered.The stop-limit order may fail to trigger due to large market fluctuation.When triggered,the stop-limit order will be filled at the best market price.There may be deveation between the trade price and setting price.";
+
 "钱包余额 + 未实现盈亏" = "Wallet balance + Unrealised PNL";
+
 "买方及卖方在下个资金时段要交换的资金费率。资金费率周期内(每 8 小时)每分钟计算一次溢价指数，并将溢价指数以时间加权平均的方式应用于计算资金费率" = "The funding rate for the buyer and seller to exchange in the next funding session. The premium index is calculated every minute during the funding rate period (every 8 hours), and the premium index is applied to calculate the funding rate in a time-weighted average manner.";
+
 "从主流现货交易所获取后进行加权平均价格" = "Weighted average price obtained from mainstream spot exchanges";
+
 "根据指数价格和资金费率得到的当前市场标记价格" = "Current market marked price based on index price and funding rate";
+
 "合约费率" = "Symbols fee";
+
 "流动性提供方费率(Maker)" = "Liquidity provider rate (Maker)";
 "流动性提供方费率(Taker)" = "Liquidity taker rate (Taker)";
 "风险保障基金" = "Risk Protection Fund";
 "合约指数" = "Futures Index";
 "偏好设置" = "Settings Preferences";
 "下单二次确认" = "Order confirmation";
+
 "合约龙虎榜" = "Futures Ranking Board";
 "合约日榜" = "Futures Daily";
 "合约周榜" = "Futures Weekly";
@@ -1674,9 +1749,11 @@
 "强平计算" = "Liquidation Calculator";
 "平仓价格" = "Closing Price";
 "合约名称" = "Symbol";
+
 "计算结果" = "Calculation Result";
 "收益额" = "Revenue";
 "计算结果仅供参考。实际操作中可能会因为手续费，资金费率导致计算结果存在偏差" = "The calculation results are for reference only. In the actual case, there may be deviations in the calculation results due to handling fees and funding rates.";
+
 "合约开通提醒" = "Symbols open reminder";
 "尊敬的XT用户，您尚未开通U本位永续合约，开通后可进行U本位永续合约相关操作!" = "Dear XTers, you have not yet activated the XT perpetual contract. After the activation, you can perform XT perpetual Symbols related operations!";
 "暂不开通" = "Not currently open";
@@ -1685,6 +1762,7 @@
 "开通失败" = "Failed to activate";
 "交割" = "Delivery";
 "目标价格" = "Target price";
+
 "止盈止损设置" = "TP/SL Settings";
 "止盈设置" = "Target Profit settings";
 "止损设置" = "Stop loss settings";
@@ -1692,6 +1770,7 @@
 "止盈额" = "Take profit amount";
 "止损触发价" = "SL trigger price";
 "亏损额" = "Loss amount";
+
 "请输入平仓价格" = "Please enter the closing price";
 "请输入平仓数量" = "Please enter the closing amount";
 "当前价格" = "Current price";
@@ -1703,6 +1782,7 @@
 "未实现盈亏" = "Unrealized P/L";
 "账户权益" = "Account Equity";
 "可用保证金" = "Free margin";
+
 "资金流水" = "Capital flow";
 "全部币种" = "All cryptos";
 "全部类型" = "All types";
@@ -1731,6 +1811,7 @@
 "没有安装谷歌验证器？" = "Don't have Google Authentication installed?";
 "点击下载" = "Click to download";
 "已安装,下一步" = "Installed, next step";
+
 "指数简介" = "Index overview";
 "标的成分" = "Target amount";
 "持仓分布" = "Holding Position";
@@ -1747,10 +1828,12 @@
 "赎回范围" = "Redemption range";
 "指数市场" = "Index Market";
 "赎回金额" = "Amount";
+
 "U本位" = "USD-M";
 "币本位" = "Coin-M";
 "场外交易" = "P2P Trading";
 "U本位(模拟)" = "USD-M(DEMO)";
+
 "身份认证" = "Identity verification";
 "企业认证" = "Enterprise authentication";
 "增加企业认证权限" = "Increase enterprise authentication authority";
@@ -1767,16 +1850,18 @@
 "向TA出售" = "Sell to TA";
 "风险提示" = "Risk warning";
 "了解更多" = "Learn More";
+
 "价格不能高于%s %s" = "Price cannot be higher than %@ %@";
 "价格不能低于%s %s" = "Price cannot be lower than %@ %@";
 "数量不能低于%s %s,不能高于%s %s" = "The quantity cannot be lower than %@ %@, and cannot be higher than %@ %@";
 "数量不能低于%s %s" = "The quantity cannot be lower than %@ %@";
+
 "尊敬的XT用户，欢迎来到新版U本位永续合约，立刻开启模拟交易吧！" = "Dear XTers, welcome to the new version of USD-M perpetual contract, start simulated trading now!";
+"尊敬的XT用户，欢迎来到新版币本位永续合约，立刻开启模拟交易吧！" = "Dear XTers, welcome to the new version of Coin-M perpetual contract, start simulated trading now!";
+
 "委托价格" = "Order Price";
 "买入开多" = "Buy Long";
 "卖出开空" = "Sell Short";
-"买入平空" = "Buy Short";
-"卖出平多" = "Sell Long";
 "U本位(新)" = "USD-M(NEW)";
 "强制平多" = "Forced buy-in";
 "强制平空" = "Forced liquidation";
@@ -1787,7 +1872,29 @@
 "成交价格" = "Deal price";
 "可平多" = "To long";
 "万" = "Ten thousand";
+"币本位(模拟)" = "Coin-M(DEMO)";
 ///合约新翻译---end
+
+"全部功能" = "All Functions";
+"管理" = "Manage";
+"自定义功能区" = "Custom Ribbon";
+"交易对" = "Trading pairs";
+"价格/24H量" = "Price/24H Volume";
+"使用银行卡等方式购买USDT或其他数字货币" = "Use bank cards, etc. to buy USDT or other digital currencies";
+"使用VISA或Mastercard等方式购买数字货币" = "Use VISA or Mastercard, etc. to buy digital currencies";
+"查看法币交易和第三方支持订单" = "View fiat currency transactions and third-party orders";
+"点击此处，获取更多功能" = "Click for more";
+"扫一扫" = "Scan";
+
+"这里可以进行划转" = "You can do the transfer here";
+"这里可以修改杠杆倍数" = "Leverage can be modified here";
+"这里可以切换委托类型" = "You can switch the delegate type here";
+"这里可以修改偏好设置" = "You can modify the preferences here";
+"这里可以查看全部合约" = "You can view all Symbols here";
+"多仓持仓" = "Position";
+"空仓持仓" = "Position";
+"请输入止盈止损价格" = "Please enter the stop limit price";
+
 "编辑收款方式" = "Edit payment collection method";
 "真实姓名(不可修改)" = "Real name (No edit)";
 "(上传图片支持JPG、JPEG、PNG，大小请控制在1M以内）" = "(Upload pictures support JPG, JPEG, PNG, please make sure the size within 1M)";
@@ -1804,3 +1911,44 @@
 "#COUNT#单" = "#COUNT#order";
 "推荐收款方式" = "Recommended deposit method";
 "无可选市场，暂不支持发布广告" = "There is no optional market, and advertising is not supported at the moment";
+"手机/邮箱注册" = "Mobile/Email Registration";
+"(首次使用)" = "(First time user)";
+"通过KYC" = "Pass KYC";
+"步骤一" = "Step 1";
+"步骤二" = "Step 2";
+"步骤三" = "Step 3";
+"即将为您跳转至#CHANNELNAME#" = "You will be redirected to #CHANNELNAME#";
+"跳转后您需要完成以下步骤" = "Once you have been redirected, you need to complete the following steps";
+"支付账单" = "Make Payment";
+"暂不支付中国内地发行的信用卡" = "Temporarily do not support credit cards issued in mainland China";
+"#COUNT#倍做多" = "#COUNT#x Long";
+"#COUNT#倍做空" = "#COUNT#x Short";
+"FIO地址" = "FIO address";
+"2到63个字符，支持字母和数字组合" = "At least 2 characters, supports letter and number combination.";
+"注册您的个人FIO充值地址，这样再也不会充值到错误的地址上了" = "Register your personalized FIO address and never deposit into the wrong address again.";
+
+"请输入您的真实姓名" = "Please enter your real name";
+"出生日期" = "Date of birth";
+"信息确认" = "Info Confirmation";
+"确认信息" = "Confirm";
+"信息有误，" = "Incorrect information, ";
+"修改信息" = "Edit";
+"拍照" = "Take photo";
+"审核结果" = "Audit Results";
+"您会在认证完成后收到一封电子邮件" = "You will receive an email when authentication is complete.";
+"返回首页" = "Home";
+"继续高级认证" = "Continue senior authentication";
+"将您的文件置于边框内，直到所有4个边缘都对齐。将自动进行拍摄。\n确保所有数据都清晰可读并避免反光。" = "Put your document inside the border until all four edges are aligned and the photo will be taken automatically. \nPlease avoid reflections and make sure all data is readable.";
+"正确示例" = "Example";
+"未剪裁" = "Uncropped";
+"不模糊" = "Not blurry";
+"不反光" = "No reflection";
+"继续" = "Continue";
+"识别成功" = "Recognized";
+"识别失败" = "Recognition failed";
+"重试" = "Try again";
+"请使用您在 Web 浏览器登录的同一账号信息来登录 XT App" = "Please login to XT App with the same account information you logged in with your Web browser.";
+"当前 iOS 系统版本过低无法使用此功能！请升级 iOS 系统版本到 v11.0 以上或移步到 Web 端进行认证" = "Current iOS version is too low to use this fuction! Please upgrade iOS version to v11.0 or above or go to Web side for authentication.";
+"未满18岁用户禁止认证" = "Authentication is prohibited for users under the age of 18.";
+"已超出认证次数，请于#LIMITTIME#重试" = "Authentication limit exceeded, please try again in #LIMITTIME#";
+"错误的地址链接" = "The page not found";
