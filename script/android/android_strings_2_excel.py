@@ -56,7 +56,7 @@ class StringsParser:
         self.dic = Handler.dic
 
 
-# Press the green button in the gutter to run the script.
+# 这个是 android 对比2个 string 资源文件分别 生成一个 excel
 if __name__ == '__main__':
 
     parser1 = StringsParser("stringsen.xml")
@@ -68,4 +68,4 @@ if __name__ == '__main__':
             value.append([key, parser1.dic[key], ""])
             print("key=", key, "value=")
 
-    write_excel_xlsx("xml.xlsx",'西班牙',value)
+    write_excel_xlsx("../../xml.xlsx", '西班牙', value)

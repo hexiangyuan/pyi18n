@@ -16,7 +16,7 @@ def writeToXml(values):
             eString.appendChild(doc.createTextNode(value))
         resources.appendChild(eString)
 
-    filename = "string-tr.xml"
+    filename = "../../string-tr.xml"
     f = open(filename, "w")
     f.write(doc.toprettyxml())
     f.close()

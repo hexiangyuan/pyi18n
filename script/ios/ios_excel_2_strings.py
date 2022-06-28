@@ -4,7 +4,7 @@ items = {}
 
 
 def writeToXml(values):
-    f = open("Localizable-tr.strings","w")
+    f = open("../../Localizable-tr.strings", "w")
     for key, value in values.items():
         print(key, "=====", value)
         if value:
