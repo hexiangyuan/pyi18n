@@ -37,16 +37,18 @@ sheet.write(0, 7, "ko")
 sheet.write(0, 8, "ru")
 sheet.write(0, 9, "tr")
 
-zh_hans_dir = read_file_to_dir("./ios/zh-Hans.lproj/Localizable.strings")
-en_dir = read_file_to_dir("./ios/en.lproj/Localizable.strings")
-zh_hant_dir = read_file_to_dir("./ios/zh-Hant.lproj/Localizable.strings")
-ko_dir = read_file_to_dir("./ios/ko.lproj/Localizable.strings")
-ja_dir = read_file_to_dir("./ios/ja.lproj/Localizable.strings")
-es_dir = read_file_to_dir("./ios/es.lproj/Localizable.strings")
-hi_dir = read_file_to_dir("./ios/hi.lproj/Localizable.strings")
-id_dir = read_file_to_dir("./ios/id.lproj/Localizable.strings")
-ru_dir = read_file_to_dir("./ios/ru.lproj/Localizable.strings")
-tr_dir = read_file_to_dir("./ios/tr.lproj/Localizable.strings")
+ios_project_dir = "/Users/xyhe/src/code/xt.com/xt-ios/XT/XT"
+
+zh_hans_dir = read_file_to_dir(ios_project_dir+"/zh-Hans.lproj/Localizable.strings")
+en_dir = read_file_to_dir(ios_project_dir+"/en.lproj/Localizable.strings")
+zh_hant_dir = read_file_to_dir(ios_project_dir+"/zh-Hant.lproj/Localizable.strings")
+ko_dir = read_file_to_dir(ios_project_dir+"/ko.lproj/Localizable.strings")
+ja_dir = read_file_to_dir(ios_project_dir+"/ja.lproj/Localizable.strings")
+es_dir = read_file_to_dir(ios_project_dir+"/es.lproj/Localizable.strings")
+hi_dir = read_file_to_dir(ios_project_dir+"/hi.lproj/Localizable.strings")
+id_dir = read_file_to_dir(ios_project_dir+"/id.lproj/Localizable.strings")
+ru_dir = read_file_to_dir(ios_project_dir+"/ru.lproj/Localizable.strings")
+tr_dir = read_file_to_dir(ios_project_dir+"/tr.lproj/Localizable.strings")
 col_index = 1
 key_set = set()
 
@@ -107,12 +109,8 @@ for key in key_set:
         sheet.write(col_index, 6, id_v, error_p_style)
 
     if ko_v:
-        if key == "登录":
-            print("2222",ko_v)
         sheet.write(col_index, 7, ko_v)
     else:
-        if key == "登录":
-            print("111",ko_v)
         sheet.write(col_index, 7, ko_v, error_p_style)
 
     if ru_v:
